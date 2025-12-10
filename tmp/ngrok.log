@@ -1,0 +1,26 @@
+t=2025-12-07T12:29:05+0800 lvl=info msg="no configuration paths supplied"
+t=2025-12-07T12:29:05+0800 lvl=info msg="using configuration at default config path" path=/home/omanjaya/.config/ngrok/ngrok.yml
+t=2025-12-07T12:29:05+0800 lvl=info msg="open config file" path=/home/omanjaya/.config/ngrok/ngrok.yml err=nil
+t=2025-12-07T12:29:05+0800 lvl=info msg="FIPS 140 mode" enabled=false
+t=2025-12-07T12:29:05+0800 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+t=2025-12-07T12:29:06+0800 lvl=info msg="update available" obj=updater
+t=2025-12-07T12:29:06+0800 lvl=info msg="client session established" obj=tunnels.session
+t=2025-12-07T12:29:06+0800 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2025-12-07T12:29:06+0800 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=http://localhost:3020 url=https://snuffiest-nydia-egregious.ngrok-free.dev
+t=2025-12-07T12:29:08+0800 lvl=info msg=start pg=/api/tunnels id=eaf7ac2bb87eec77
+t=2025-12-07T12:29:08+0800 lvl=info msg=end pg=/api/tunnels id=eaf7ac2bb87eec77 status=200 dur=237.579µs
+t=2025-12-07T12:29:29+0800 lvl=info msg="join connections" obj=join id=496465e654e4 l=127.0.0.1:3020 r=59.153.129.190:59346
+t=2025-12-07T12:29:29+0800 lvl=info msg="join connections" obj=join id=a497212bcf20 l=127.0.0.1:3020 r=59.153.129.190:59346
+t=2025-12-07T12:29:29+0800 lvl=info msg="join connections" obj=join id=17cc1a712227 l=127.0.0.1:3020 r=59.153.129.190:59346
+t=2025-12-07T12:29:29+0800 lvl=info msg="join connections" obj=join id=37e054c5a6a6 l=127.0.0.1:3020 r=59.153.129.190:59346
+t=2025-12-07T12:29:29+0800 lvl=info msg="join connections" obj=join id=c794b1ab9ec8 l=127.0.0.1:3020 r=59.153.129.190:59346
+t=2025-12-07T12:29:29+0800 lvl=info msg="join connections" obj=join id=b099528cb01f l=127.0.0.1:3020 r=59.153.129.190:59346
+t=2025-12-07T12:29:29+0800 lvl=info msg="join connections" obj=join id=89dc82b17a50 l=127.0.0.1:3020 r=59.153.129.190:59346
+t=2025-12-07T12:29:29+0800 lvl=info msg="join connections" obj=join id=adddb90621aa l=127.0.0.1:3020 r=59.153.129.190:59346
+t=2025-12-07T12:29:29+0800 lvl=info msg="join connections" obj=join id=ff49b9e46364 l=127.0.0.1:3020 r=59.153.129.190:59346
+t=2025-12-07T12:29:29+0800 lvl=info msg="join connections" obj=join id=f48690befdd6 l=127.0.0.1:3020 r=59.153.129.190:59346
+t=2025-12-07T12:29:29+0800 lvl=info msg="join connections" obj=join id=a38d58c87d7d l=127.0.0.1:3020 r=59.153.129.190:59346
+t=2025-12-07T12:29:29+0800 lvl=info msg="join connections" obj=join id=0183bc37032d l=127.0.0.1:3020 r=59.153.129.190:59346
+t=2025-12-07T13:02:43+0800 lvl=info msg="received stop request" obj=app stopReq="{err:<nil> restart:false}"
+t=2025-12-07T13:02:43+0800 lvl=info msg="session closing" obj=tunnels.session err=nil
+t=2025-12-07T13:02:43+0800 lvl=info msg="accept failed" obj=tunnels.session obj=csess id=78fdf2ee6832 err="reconnecting session closed"

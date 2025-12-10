@@ -1,0 +1,231 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Customer {
+  id        String   @id @default(cuid())
+  name      String
+  phone     String?
+  address   String?
+  balance   Decimal  @default(0) // Hutang (Positif) / Deposit (Negatif)
+  
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  
+  transactions Transaction[]
+  payments     Payment[]
+}
+
+model Product {
+  id        String   @id @default(cuid())
+  code      String?  @unique // Kode produk singkat (e.g. A2040, GS10)
+  name      String
+  stock     Int      @default(0)
+  hpp       Decimal  // Harga Pokok Penjualan
+  price     Decimal  // Harga Jual
+  unit      String   // e.g. m2, pcs, truck
+  category  String?
+  minStock  Int      @default(5) // Stok minimum untuk alert
+  
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  transactionItems TransactionItem[]
+  purchaseItems    PurchaseItem[]
+  stockOpnames     StockOpname[]
+  stockMovements   StockMovement[]
+}
+
+
+model Transaction {
+  id        String   @id @default(cuid())
+  invoiceNo String?   // Nomor Invoice/Bon manual atau auto
+  date      DateTime @default(now())
+  
+  customerId String
+  customer   Customer @relation(fields: [customerId], references: [id])
+  
+  items     TransactionItem[]
+  
+  totalAmount Decimal
+  paidAmount  Decimal // Uang muka atau bayar lunas saat transaksi
+  remaining   Decimal // Sisa tagihan (untuk cross check)
+  
+  status    String   // LUNAS, BON, PARTIAL
+  type      String   // SALE, RETURN, ADJUSTMENT (Opname)
+  
+  paymentMethod String? // CASH, TRANSFER, QRIS
+  note          String?
+  externalId    String? // ID referensi external
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model TransactionItem {
+  id            String   @id @default(cuid())
+  transactionId String
+  transaction   Transaction @relation(fields: [transactionId], references: [id], onDelete: Cascade)
+  
+  productId     String
+  product       Product @relation(fields: [productId], references: [id])
+  
+  qty           Decimal // Support desimal (e.g. 1.5 m2)
+  price         Decimal // Harga Jual saat itu
+  cost          Decimal // HPP saat itu (Snapshot)
+  
+  createdAt     DateTime @default(now())
+}
+
+model Payment {
+  id          String   @id @default(cuid())
+  date        DateTime @default(now())
+  
+  customerId  String
+  customer    Customer @relation(fields: [customerId], references: [id])
+  
+  amount      Decimal
+  method      String   // CASH, TRANSFER
+  note        String?
+  
+  createdAt   DateTime @default(now())
+}
+
+// ==================== SUPPLIER & HUTANG ====================
+model Supplier {
+  id        String   @id @default(cuid())
+  name      String
+  phone     String?
+  address   String?
+  balance   Decimal  @default(0) // Hutang ke supplier (Positif = kita berhutang)
+  
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  
+  purchases     Purchase[]
+  paymentsMade  SupplierPayment[]
+}
+
+model Purchase {
+  id          String   @id @default(cuid())
+  date        DateTime @default(now())
+  invoiceNo   String?  // Nomor faktur dari supplier
+  
+  supplierId  String
+  supplier    Supplier @relation(fields: [supplierId], references: [id])
+  
+  items       PurchaseItem[]
+  
+  totalAmount Decimal
+  paidAmount  Decimal  @default(0)
+  remaining   Decimal  // Sisa hutang ke supplier
+  status      String   // LUNAS, HUTANG
+  note        String?
+  
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model PurchaseItem {
+  id          String   @id @default(cuid())
+  purchaseId  String
+  purchase    Purchase @relation(fields: [purchaseId], references: [id], onDelete: Cascade)
+  
+  productId   String
+  product     Product  @relation(fields: [productId], references: [id])
+  
+  qty         Decimal
+  cost        Decimal  // Harga beli per unit
+  
+  createdAt   DateTime @default(now())
+}
+
+model SupplierPayment {
+  id          String   @id @default(cuid())
+  date        DateTime @default(now())
+  
+  supplierId  String
+  supplier    Supplier @relation(fields: [supplierId], references: [id])
+  
+  amount      Decimal
+  method      String   // CASH, TRANSFER
+  note        String?
+  
+  createdAt   DateTime @default(now())
+}
+
+// ==================== ARUS KAS (TRANSAKSI HARIAN) ====================
+model CashFlow {
+  id          String   @id @default(cuid())
+  date        DateTime @default(now())
+  
+  type        String   // DEBIT (Masuk), CREDIT (Keluar)
+  category    String   // PENJUALAN, PEMBELIAN, OPERASIONAL, GAJI, LAIN-LAIN
+  description String
+  amount      Decimal
+  
+  // Optional reference to related transaction
+  refType     String?  // SALE, PURCHASE, PAYMENT_IN, PAYMENT_OUT
+  refId       String?  // ID transaksi terkait
+  
+  balance     Decimal  // Saldo setelah transaksi ini
+  
+  createdAt   DateTime @default(now())
+}
+
+// ==================== STOCK OPNAME ====================
+model StockOpname {
+  id          String   @id @default(cuid())
+  date        DateTime @default(now())
+  
+  productId   String
+  product     Product  @relation(fields: [productId], references: [id])
+  
+  stockSystem Int      // Stok di sistem
+  stockActual Int      // Stok hasil hitung fisik
+  difference  Int      // Selisih (+ lebih, - kurang)
+  
+  reason      String?  // Alasan selisih: RUSAK, HILANG, SALAH_HITUNG, dll
+  note        String?
+  
+  createdAt   DateTime @default(now())
+}
+
+// ==================== STOCK MOVEMENT (IN/OUT) ====================
+// Tracks all stock movements like in the Excel MAIN sheet
+model StockMovement {
+  id          String   @id @default(cuid())
+  date        DateTime @default(now())
+  
+  productId   String
+  product     Product  @relation(fields: [productId], references: [id])
+  
+  type        String   // IN (Stok Masuk), OUT (Stok Keluar)
+  qty         Decimal  // Jumlah barang
+  
+  // Snapshot harga saat transaksi
+  hpp         Decimal  // Harga Pokok
+  hj          Decimal? // Harga Jual (untuk OUT)
+  
+  stockAfter  Int      // Sisa stok setelah transaksi
+  
+  // Reference to source transaction
+  refType     String?  // PURCHASE, SALE, OPNAME, ADJUSTMENT, TRANSFER
+  refId       String?  // ID transaksi terkait
+  
+  // For sales - customer info
+  customerName String? // Nama Bon
+  status      String?  // LUNAS, BON
+  
+  note        String?
+  
+  createdAt   DateTime @default(now())
+}

@@ -1,0 +1,7740 @@
+{
+  "products": [
+    {
+      "name": "Alur 20x40 Candi",
+      "stock": 100,
+      "hpp": 102000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Alur cacing Ziolit",
+      "stock": 100,
+      "hpp": 98000,
+      "price": 117600,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Alur cungkil Bali Green",
+      "stock": 100,
+      "hpp": 91000,
+      "price": 110000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Alur lurus Bali Green",
+      "stock": 100,
+      "hpp": 91000,
+      "price": 115000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Alur lurus ziolit",
+      "stock": 100,
+      "hpp": 98000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 10x10x1,5 Bakar",
+      "stock": 100,
+      "hpp": 95000,
+      "price": 100000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 10x10x3 Bakar",
+      "stock": 100,
+      "hpp": 170000,
+      "price": 170000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 10x10x3 RTA ( Cobal )",
+      "stock": 100,
+      "hpp": 165000,
+      "price": 180000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 10x10x5 RTA ( Cobal )",
+      "stock": 100,
+      "hpp": 215000,
+      "price": 280000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 10x10x5 rta ( Cobal )",
+      "stock": 100,
+      "hpp": 215000,
+      "price": 258000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 10x20x1,5 Bakar",
+      "stock": 100,
+      "hpp": 95000,
+      "price": 105000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 10x40x1,5 Bakar",
+      "stock": 100,
+      "hpp": 90000,
+      "price": 105000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 15x40x3 Bakar",
+      "stock": 100,
+      "hpp": 240000,
+      "price": 275000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 15x40x3 bakar",
+      "stock": 100,
+      "hpp": 240000,
+      "price": 240000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 15x60x1,5 Bakar",
+      "stock": 100,
+      "hpp": 120000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 15x60x5 Bakar",
+      "stock": 100,
+      "hpp": 335000,
+      "price": 385000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 20x20x1,5 Bakar",
+      "stock": 100,
+      "hpp": 111000,
+      "price": 165000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 20x30x1,5 Bakar",
+      "stock": 100,
+      "hpp": 116000,
+      "price": 139200,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 20x30x1,5 bakar",
+      "stock": 100,
+      "hpp": 105000,
+      "price": 105000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 20x30x3 Bakar",
+      "stock": 100,
+      "hpp": 205000,
+      "price": 264000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 20x30x3 bakar",
+      "stock": 100,
+      "hpp": 205000,
+      "price": 240000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 20x40x1,5 Bakar",
+      "stock": 100,
+      "hpp": 120000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 20x40x1,5 Non Bakar",
+      "stock": 100,
+      "hpp": 95000,
+      "price": 103000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 20x40x1,5 Poles",
+      "stock": 100,
+      "hpp": 189000,
+      "price": 220000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 20x40x2 ( Full ) Bakar",
+      "stock": 100,
+      "hpp": 155000,
+      "price": 210000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 20x40x3 Bakar",
+      "stock": 100,
+      "hpp": 235000,
+      "price": 264000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 20x40x5 Bakar",
+      "stock": 100,
+      "hpp": 330000,
+      "price": 350000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 20x60x1,5 Bakar",
+      "stock": 100,
+      "hpp": 120000,
+      "price": 135000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 30x30x1,5 Bakar",
+      "stock": 100,
+      "hpp": 130000,
+      "price": 125000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 30x30x2 ( Full ) Bakar",
+      "stock": 100,
+      "hpp": 165000,
+      "price": 180000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 30x30x3 Bakar",
+      "stock": 100,
+      "hpp": 235000,
+      "price": 260000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 30x30x5 Bakar",
+      "stock": 100,
+      "hpp": 330000,
+      "price": 330000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 30x40x1,5 Bakar",
+      "stock": 100,
+      "hpp": 136000,
+      "price": 130000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 30x40x3 Bakar",
+      "stock": 100,
+      "hpp": 240000,
+      "price": 269333,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 30x40x5 Bakar",
+      "stock": 100,
+      "hpp": 345000,
+      "price": 368000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 30x60x1,5 Bakar",
+      "stock": 100,
+      "hpp": 135000,
+      "price": 135000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 30x60x1,5 Poles",
+      "stock": 100,
+      "hpp": 200000,
+      "price": 240000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 30x60x1,5 poles",
+      "stock": 100,
+      "hpp": 200000,
+      "price": 240000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 30x60x2 ( Full ) Bakar",
+      "stock": 100,
+      "hpp": 165000,
+      "price": 190000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 30x60x3 Bakar",
+      "stock": 100,
+      "hpp": 245000,
+      "price": 264000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 30x60x5 Bakar",
+      "stock": 100,
+      "hpp": 355000,
+      "price": 374000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 40x40x1,5 Bakar",
+      "stock": 100,
+      "hpp": 136000,
+      "price": 163200,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 40x40x3 Bakar",
+      "stock": 100,
+      "hpp": 262000,
+      "price": 270000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 40x40x5 Bakar",
+      "stock": 100,
+      "hpp": 345000,
+      "price": 370000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 40x60x1,5 Bakar",
+      "stock": 100,
+      "hpp": 156000,
+      "price": 187200,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 40x60x1,5 Poles",
+      "stock": 100,
+      "hpp": 235000,
+      "price": 250000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 40x60x1,5 poles",
+      "stock": 100,
+      "hpp": 235000,
+      "price": 240000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 50x100x1,5 Bakar",
+      "stock": 100,
+      "hpp": 200000,
+      "price": 300000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 50x120x1,5 Bakar",
+      "stock": 100,
+      "hpp": 320000,
+      "price": 427500,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 50x50x1,5 Bakar",
+      "stock": 100,
+      "hpp": 150000,
+      "price": 200000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 60x100x1,5 Bakar",
+      "stock": 100,
+      "hpp": 410000,
+      "price": 496000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 60x120x5  Bakar",
+      "stock": 100,
+      "hpp": 610000,
+      "price": 675000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 60x60x1,5 Bakar",
+      "stock": 100,
+      "hpp": 210000,
+      "price": 216000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit 60x60x1,5 Poles",
+      "stock": 100,
+      "hpp": 290000,
+      "price": 320000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit Alur Lurus 20x40x1,5",
+      "stock": 100,
+      "hpp": 125000,
+      "price": 135000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit Alur Napoli 20x40x1,5",
+      "stock": 100,
+      "hpp": 125000,
+      "price": 135000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit Tulungagung 20x40x2",
+      "stock": 100,
+      "hpp": 113000,
+      "price": 135600,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit Tulungagung 30x60x2",
+      "stock": 100,
+      "hpp": 146000,
+      "price": 175200,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit Tulungagung 30x60x3",
+      "stock": 100,
+      "hpp": 270000,
+      "price": 324000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Andesit Tulungagung 40x40x2",
+      "stock": 100,
+      "hpp": 146000,
+      "price": 175200,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Bali Green 20x40x2",
+      "stock": 100,
+      "hpp": 82000,
+      "price": 90000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Bali Green 20x40x3",
+      "stock": 100,
+      "hpp": 128000,
+      "price": 153600,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Bali Green 20x40x5",
+      "stock": 100,
+      "hpp": 198000,
+      "price": 210000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Bali green 20x40x2",
+      "stock": 100,
+      "hpp": 82000,
+      "price": 98400,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Bali green 20x40x3",
+      "stock": 100,
+      "hpp": 128000,
+      "price": 150000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Bali green 20x40x5",
+      "stock": 100,
+      "hpp": 198000,
+      "price": 230000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Bali star 20x40x2",
+      "stock": 100,
+      "hpp": 88000,
+      "price": 125000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Batik green 20x40x2",
+      "stock": 100,
+      "hpp": 92000,
+      "price": 130000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Batu Kolam Hitam ( Tumble )",
+      "stock": 100,
+      "hpp": 140000,
+      "price": 150000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Batu Kolam Putih ( Tumble )",
+      "stock": 100,
+      "hpp": 140000,
+      "price": 160000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Batu Koral Hijau",
+      "stock": 100,
+      "hpp": 19000,
+      "price": 22800,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Batu Koral Hitam Alor / Gloos",
+      "stock": 100,
+      "hpp": 32000,
+      "price": 40000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Batu Koral Hitam Sumbawa / Doff",
+      "stock": 100,
+      "hpp": 19000,
+      "price": 30000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Batu Koral Marun",
+      "stock": 100,
+      "hpp": 15000,
+      "price": 18000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Batu Koral Putih Itali",
+      "stock": 100,
+      "hpp": 33000,
+      "price": 80000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Batu Koral Putih M",
+      "stock": 100,
+      "hpp": 15000,
+      "price": 25000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Batu Sikat Putih Salju ( Karung )",
+      "stock": 100,
+      "hpp": 16000,
+      "price": 40000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Batu Telur Umar ( Kali Hitam )",
+      "stock": 100,
+      "hpp": 35000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "CANDI 20X40X2",
+      "stock": 100,
+      "hpp": 91000,
+      "price": 95000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "CANDI 20X40X3",
+      "stock": 100,
+      "hpp": 150000,
+      "price": 15500,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "CANDI 20X40X5",
+      "stock": 100,
+      "hpp": 223000,
+      "price": 267600,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "CANDI 30X30X3",
+      "stock": 100,
+      "hpp": 190000,
+      "price": 228000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "CANDI 30X60X5",
+      "stock": 100,
+      "hpp": 238000,
+      "price": 285600,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "CAndi 20x40x5",
+      "stock": 100,
+      "hpp": 223000,
+      "price": 267600,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "CAndi 30x60x2",
+      "stock": 100,
+      "hpp": 115000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Candi 20x30x2",
+      "stock": 100,
+      "hpp": 80000,
+      "price": 85000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Candi 20x30x5",
+      "stock": 100,
+      "hpp": 196000,
+      "price": 235200,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Candi 20x40x2",
+      "stock": 100,
+      "hpp": 91000,
+      "price": 96000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Candi 20x40x3",
+      "stock": 100,
+      "hpp": 150000,
+      "price": 180000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Candi 20x40x5",
+      "stock": 100,
+      "hpp": 223000,
+      "price": 267600,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Candi 30x30x2",
+      "stock": 100,
+      "hpp": 95000,
+      "price": 115000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Candi 30x30x3",
+      "stock": 100,
+      "hpp": 190000,
+      "price": 228000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Candi 30x30x5",
+      "stock": 100,
+      "hpp": 225000,
+      "price": 270000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Candi 30x40x3",
+      "stock": 100,
+      "hpp": 175000,
+      "price": 210000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Candi 30x40x5",
+      "stock": 100,
+      "hpp": 235000,
+      "price": 282000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Candi 30x60x5",
+      "stock": 100,
+      "hpp": 238000,
+      "price": 285600,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Candi 40x40x2",
+      "stock": 100,
+      "hpp": 108000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Candi 40x40x3",
+      "stock": 100,
+      "hpp": 175000,
+      "price": 210000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Candi 40x40x5",
+      "stock": 100,
+      "hpp": 238000,
+      "price": 285600,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Cika Seram",
+      "stock": 100,
+      "hpp": 190000,
+      "price": 235000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Coating Protex One Candi Doff",
+      "stock": 100,
+      "hpp": 48000,
+      "price": 50000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Coating Protex One Candi Gloss",
+      "stock": 100,
+      "hpp": 48000,
+      "price": 57600,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Coating Protex One Candi doff",
+      "stock": 100,
+      "hpp": 48000,
+      "price": 57600,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Coating Protex One Hitam Alami",
+      "stock": 100,
+      "hpp": 48000,
+      "price": 57600,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Coating Protex One Natural Doff",
+      "stock": 100,
+      "hpp": 48000,
+      "price": 50000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Coating Protex One Natural Gloss",
+      "stock": 100,
+      "hpp": 48000,
+      "price": 50000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Coating Protex One Natural Water Base",
+      "stock": 100,
+      "hpp": 48000,
+      "price": 50000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Coating Protex One candi Doff",
+      "stock": 100,
+      "hpp": 48000,
+      "price": 50000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Coating Protex One candi Gloss",
+      "stock": 100,
+      "hpp": 48000,
+      "price": 57600,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Coating Protex One candi doff",
+      "stock": 100,
+      "hpp": 48000,
+      "price": 57600,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Dispenser",
+      "stock": 100,
+      "hpp": 80000,
+      "price": 96000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Ganggong 10 Candi",
+      "stock": 100,
+      "hpp": 9000,
+      "price": 11000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Ganggong 10 Putih Tulang",
+      "stock": 100,
+      "hpp": 8000,
+      "price": 10000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Ganggong 3 Candi",
+      "stock": 100,
+      "hpp": 3600,
+      "price": 4000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Ganggong 4,5 Andesit",
+      "stock": 100,
+      "hpp": 9000,
+      "price": 10000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Ganggong 4,5 Candi",
+      "stock": 100,
+      "hpp": 5300,
+      "price": 7000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Ganggong 4,5 Putih Tulang",
+      "stock": 100,
+      "hpp": 5000,
+      "price": 6000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Ganggong 4x4 Candi",
+      "stock": 100,
+      "hpp": 5500,
+      "price": 7000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Ganggong 4x6 Putih Tulang",
+      "stock": 100,
+      "hpp": 5600,
+      "price": 7500,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Ganggong 4x6 putih Tulang",
+      "stock": 100,
+      "hpp": 5600,
+      "price": 8000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Ganggong 5x5 Andesit",
+      "stock": 100,
+      "hpp": 9000,
+      "price": 13000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Ganggong 5x5 Candi",
+      "stock": 100,
+      "hpp": 6500,
+      "price": 7800,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Ganggong 5x5 andesit",
+      "stock": 100,
+      "hpp": 9000,
+      "price": 12000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Ganggong 5x7 Candi",
+      "stock": 100,
+      "hpp": 8000,
+      "price": 9000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Ganggong 5x7 Paras Tulungagung",
+      "stock": 100,
+      "hpp": 26000,
+      "price": 30000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Ganggong 5x7 Putih Tulang",
+      "stock": 100,
+      "hpp": 7000,
+      "price": 7000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Ganggong 6 Candi",
+      "stock": 100,
+      "hpp": 5600,
+      "price": 8000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Green Sukabumi 10x10 (kolam )",
+      "stock": 100,
+      "hpp": 95000,
+      "price": 100000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Green Sukabumi 10x10 Ekspor",
+      "stock": 100,
+      "hpp": 165000,
+      "price": 165000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Green Sukabumi 10x10 ekspor",
+      "stock": 100,
+      "hpp": 165000,
+      "price": 185000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Green Sukabumi 10x20",
+      "stock": 100,
+      "hpp": 105000,
+      "price": 110000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Green Sukabumi 10x20 ekspor",
+      "stock": 100,
+      "hpp": 170000,
+      "price": 190000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Green Sukabumi 15x15",
+      "stock": 100,
+      "hpp": 108000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Green Sukabumi 15x15 ekspor",
+      "stock": 100,
+      "hpp": 180000,
+      "price": 216000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Green Sukabumi 15x30",
+      "stock": 100,
+      "hpp": 120000,
+      "price": 144000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Green Sukabumi 20x20",
+      "stock": 100,
+      "hpp": 122000,
+      "price": 133000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Green Sukabumi 20x20 ekspor",
+      "stock": 100,
+      "hpp": 185000,
+      "price": 200000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Green sukabumi 10x20",
+      "stock": 100,
+      "hpp": 105000,
+      "price": 105000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Green sukabumi 15x15",
+      "stock": 100,
+      "hpp": 108000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Green sukabumi 15x15 ekspor",
+      "stock": 100,
+      "hpp": 180000,
+      "price": 180000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Green sukabumi 20x20",
+      "stock": 100,
+      "hpp": 122000,
+      "price": 125000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Green sukabumi 30x30x3",
+      "stock": 100,
+      "hpp": 750000,
+      "price": 770000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Java green 20x40x2",
+      "stock": 100,
+      "hpp": 98000,
+      "price": 115000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Kulitan Paras 10x30",
+      "stock": 100,
+      "hpp": 110000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Kulitan Paras 20x40",
+      "stock": 100,
+      "hpp": 105000,
+      "price": 135000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Kulitan paras 10x30",
+      "stock": 100,
+      "hpp": 110000,
+      "price": 135000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Lem Blassbond",
+      "stock": 100,
+      "hpp": 55000,
+      "price": 65000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Lis Diagonal 6 cm putih",
+      "stock": 100,
+      "hpp": 13000,
+      "price": 16000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Lis Diagonal 8 cm Merah",
+      "stock": 100,
+      "hpp": 13000,
+      "price": 15600,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Lis Lengkung 6cm",
+      "stock": 100,
+      "hpp": 14000,
+      "price": 16800,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Lis bunga besar",
+      "stock": 100,
+      "hpp": 36000,
+      "price": 35000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Lis bunga kecil",
+      "stock": 100,
+      "hpp": 11000,
+      "price": 16000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Lis double ziolit",
+      "stock": 100,
+      "hpp": 17000,
+      "price": 20400,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Marmer 60x60x2",
+      "stock": 100,
+      "hpp": 270000,
+      "price": 360000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Marmo  Putih Tulang",
+      "stock": 100,
+      "hpp": 78000,
+      "price": 100000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Marmo 20x40 Andesit",
+      "stock": 100,
+      "hpp": 118000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Marmo Hijau Kolam",
+      "stock": 100,
+      "hpp": 90000,
+      "price": 108000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Marmo Hijau Kolam 20x20",
+      "stock": 100,
+      "hpp": 95000,
+      "price": 130000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Marmo Palem 10x20",
+      "stock": 100,
+      "hpp": 75000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Marmo Palem 20x40",
+      "stock": 100,
+      "hpp": 100000,
+      "price": 125000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Marmo Putih Super 20x40",
+      "stock": 100,
+      "hpp": 95000,
+      "price": 150000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Marmo Trotol",
+      "stock": 100,
+      "hpp": 120000,
+      "price": 130000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Marmo hijau kolam",
+      "stock": 100,
+      "hpp": 90000,
+      "price": 95000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Marmo hitam",
+      "stock": 100,
+      "hpp": 115000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Marmo pacito roso",
+      "stock": 100,
+      "hpp": 115000,
+      "price": 125000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Membran",
+      "stock": 100,
+      "hpp": 1300000,
+      "price": 1900000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Membran",
+      "stock": 100,
+      "hpp": 1300000,
+      "price": 1900000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Membran bakar",
+      "stock": 100,
+      "hpp": 1200000,
+      "price": 1900000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "NAt Hijau",
+      "stock": 100,
+      "hpp": 10000,
+      "price": 12000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Nat Hijau",
+      "stock": 100,
+      "hpp": 10000,
+      "price": 15000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Nat Hitam",
+      "stock": 100,
+      "hpp": 10000,
+      "price": 20000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Nat Putih",
+      "stock": 100,
+      "hpp": 10000,
+      "price": 15000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Nat Semen",
+      "stock": 100,
+      "hpp": 10000,
+      "price": 10000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Nat hijau",
+      "stock": 100,
+      "hpp": 10000,
+      "price": 15000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Nat hitam",
+      "stock": 100,
+      "hpp": 10000,
+      "price": 15000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Neon Candi",
+      "stock": 100,
+      "hpp": 12000,
+      "price": 12000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Neon Putih tulang",
+      "stock": 100,
+      "hpp": 11000,
+      "price": 12000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Neon Ziolit",
+      "stock": 100,
+      "hpp": 12000,
+      "price": 12000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Neon candi",
+      "stock": 100,
+      "hpp": 12000,
+      "price": 14000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Pacito Roso 20x40x2",
+      "stock": 100,
+      "hpp": 112000,
+      "price": 115000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Pae 1 Bali Green",
+      "stock": 100,
+      "hpp": 13000,
+      "price": 14000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Pae 1 Candi",
+      "stock": 100,
+      "hpp": 13000,
+      "price": 14000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Pae 1 Ziolit",
+      "stock": 100,
+      "hpp": 14000,
+      "price": 14000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Pae 1 putih tulang",
+      "stock": 100,
+      "hpp": 12000,
+      "price": 14000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Pae 2 Bali Green",
+      "stock": 100,
+      "hpp": 13000,
+      "price": 14000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Pae 2 Candi",
+      "stock": 100,
+      "hpp": 13000,
+      "price": 14000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Pae 2 Putih Tulang",
+      "stock": 100,
+      "hpp": 12000,
+      "price": 15000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Pae 2 Serat Jati",
+      "stock": 100,
+      "hpp": 11000,
+      "price": 13200,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Pae 2 candi",
+      "stock": 100,
+      "hpp": 13000,
+      "price": 14000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Pae 2 serat jati",
+      "stock": 100,
+      "hpp": 11000,
+      "price": 14000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Palem  20x40x2",
+      "stock": 100,
+      "hpp": 90000,
+      "price": 105000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Palem 30x30x1,5",
+      "stock": 100,
+      "hpp": 95000,
+      "price": 115000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Palem 30x30x5",
+      "stock": 100,
+      "hpp": 305000,
+      "price": 440000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Palem 30x40x5",
+      "stock": 100,
+      "hpp": 305000,
+      "price": 660000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Palem Palimanan 30x60x1,5",
+      "stock": 100,
+      "hpp": 120000,
+      "price": 125000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Palimanan 20x40x2",
+      "stock": 100,
+      "hpp": 88000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Palimanan 40x40x2",
+      "stock": 100,
+      "hpp": 120000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Paras Cream 20x40x2",
+      "stock": 100,
+      "hpp": 85000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Paras Doreng 20x40x2",
+      "stock": 100,
+      "hpp": 85000,
+      "price": 90000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Paras Jember 10x20",
+      "stock": 100,
+      "hpp": 55000,
+      "price": 110000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Paras Jember 15x30",
+      "stock": 100,
+      "hpp": 65000,
+      "price": 78000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Paras Jember 17x35",
+      "stock": 100,
+      "hpp": 90000,
+      "price": 140000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Paras Jember 20x40",
+      "stock": 100,
+      "hpp": 80000,
+      "price": 85000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Paras Jember 30x30",
+      "stock": 100,
+      "hpp": 65000,
+      "price": 90000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Paras Jember 40x40",
+      "stock": 100,
+      "hpp": 85000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Paras Tulungagung 10x10",
+      "stock": 100,
+      "hpp": 55000,
+      "price": 66000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Paras Tulungagung 20x30x2",
+      "stock": 100,
+      "hpp": 70000,
+      "price": 84000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Paras Tulungagung 20x40x2",
+      "stock": 100,
+      "hpp": 105000,
+      "price": 130000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Paras Tulungagung 20x40x3",
+      "stock": 100,
+      "hpp": 133000,
+      "price": 130000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Paras Tulungagung 20x40x5",
+      "stock": 100,
+      "hpp": 180000,
+      "price": 240000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Paras Tulungagung Hitam 15x33x2",
+      "stock": 100,
+      "hpp": 78000,
+      "price": 93000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Paras Tulungagung Hitam 15x33x5",
+      "stock": 100,
+      "hpp": 157000,
+      "price": 900000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Paras Ukir 40x40",
+      "stock": 100,
+      "hpp": 17500,
+      "price": 25000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Paras cream 20x40x2",
+      "stock": 100,
+      "hpp": 85000,
+      "price": 100000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Paras cream 20x40x5",
+      "stock": 100,
+      "hpp": 180000,
+      "price": 216000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Paras doreng 20x30x2",
+      "stock": 100,
+      "hpp": 75000,
+      "price": 90000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Paras jember 10x20",
+      "stock": 100,
+      "hpp": 55000,
+      "price": 66000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Paras jember 17x35",
+      "stock": 100,
+      "hpp": 90000,
+      "price": 108000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Paras jember 20x40",
+      "stock": 100,
+      "hpp": 80000,
+      "price": 110000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Paras jember 30x30",
+      "stock": 100,
+      "hpp": 65000,
+      "price": 100000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Paras tulungagung 20x40x2",
+      "stock": 100,
+      "hpp": 105000,
+      "price": 110000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Paras tulungagung 20x40x3",
+      "stock": 100,
+      "hpp": 133000,
+      "price": 130000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Paras tulungagung 20x40x5",
+      "stock": 100,
+      "hpp": 180000,
+      "price": 216000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih Abu 20x40x2",
+      "stock": 100,
+      "hpp": 90000,
+      "price": 80000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih Cream 20x40x2 Agus",
+      "stock": 100,
+      "hpp": 105000,
+      "price": 115000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih Semi 20x40x2",
+      "stock": 100,
+      "hpp": 100000,
+      "price": 90000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih Semi 20x40x3",
+      "stock": 100,
+      "hpp": 150000,
+      "price": 156000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih Semi 20x40x5",
+      "stock": 100,
+      "hpp": 220000,
+      "price": 192000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih Super 20x40x2",
+      "stock": 100,
+      "hpp": 125000,
+      "price": 125000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih Tulang 20x30x2",
+      "stock": 100,
+      "hpp": 65000,
+      "price": 75000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih Tulang 20x40x2",
+      "stock": 100,
+      "hpp": 85000,
+      "price": 102000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih Tulang 20x40x3",
+      "stock": 100,
+      "hpp": 135000,
+      "price": 162000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih Tulang 20x40x5",
+      "stock": 100,
+      "hpp": 191000,
+      "price": 229200,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih Tulang 30x30x2",
+      "stock": 100,
+      "hpp": 78000,
+      "price": 90000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih Tulang 30x30x3",
+      "stock": 100,
+      "hpp": 140000,
+      "price": 168000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih Tulang 30x30x5",
+      "stock": 100,
+      "hpp": 200000,
+      "price": 240000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih Tulang 30x40x5",
+      "stock": 100,
+      "hpp": 205000,
+      "price": 224000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih Tulang 30x60x2",
+      "stock": 100,
+      "hpp": 85000,
+      "price": 100000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih Tulang 30x60x3",
+      "stock": 100,
+      "hpp": 147000,
+      "price": 176400,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih Tulang 30x60x5",
+      "stock": 100,
+      "hpp": 210000,
+      "price": 252000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih Tulang 40x40x2",
+      "stock": 100,
+      "hpp": 95000,
+      "price": 110000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih Tulang 40x40x3",
+      "stock": 100,
+      "hpp": 147000,
+      "price": 160000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih Tulang 40x40x5",
+      "stock": 100,
+      "hpp": 210000,
+      "price": 240000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih semi 20x40x2",
+      "stock": 100,
+      "hpp": 100000,
+      "price": 90000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih semi 20x40x3",
+      "stock": 100,
+      "hpp": 150000,
+      "price": 155000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih semi 20x40x5",
+      "stock": 100,
+      "hpp": 220000,
+      "price": 264000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih semi 30x60x2",
+      "stock": 100,
+      "hpp": 115000,
+      "price": 110000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih tulang 20x30x2",
+      "stock": 100,
+      "hpp": 65000,
+      "price": 80000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih tulang 20x40x2",
+      "stock": 100,
+      "hpp": 85000,
+      "price": 95000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih tulang 20x40x3",
+      "stock": 100,
+      "hpp": 135000,
+      "price": 155000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih tulang 20x40x5",
+      "stock": 100,
+      "hpp": 191000,
+      "price": 225000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih tulang 30x30x2",
+      "stock": 100,
+      "hpp": 78000,
+      "price": 100000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih tulang 30x30x3",
+      "stock": 100,
+      "hpp": 140000,
+      "price": 165000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih tulang 30x30x5",
+      "stock": 100,
+      "hpp": 200000,
+      "price": 231000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih tulang 30x40x5",
+      "stock": 100,
+      "hpp": 205000,
+      "price": 230000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih tulang 30x60x2",
+      "stock": 100,
+      "hpp": 85000,
+      "price": 126500,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih tulang 30x60x3",
+      "stock": 100,
+      "hpp": 147000,
+      "price": 192500,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih tulang 30x60x5",
+      "stock": 100,
+      "hpp": 210000,
+      "price": 252000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih tulang 40x40x2",
+      "stock": 100,
+      "hpp": 95000,
+      "price": 100000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih tulang 40x40x3",
+      "stock": 100,
+      "hpp": 147000,
+      "price": 200000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Putih tulang 40x40x5",
+      "stock": 100,
+      "hpp": 210000,
+      "price": 240000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "RTM Palem Random",
+      "stock": 100,
+      "hpp": 80000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "RTS Candi 20x40x3",
+      "stock": 100,
+      "hpp": 90000,
+      "price": 110000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "RTS candi 20x40x3",
+      "stock": 100,
+      "hpp": 90000,
+      "price": 110000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Rts candi 20x40x3",
+      "stock": 100,
+      "hpp": 90000,
+      "price": 110000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Semen MU",
+      "stock": 100,
+      "hpp": 270000,
+      "price": 315000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Semen sika",
+      "stock": 100,
+      "hpp": 195000,
+      "price": 235000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Serat Jati 20x40x2",
+      "stock": 100,
+      "hpp": 88000,
+      "price": 95000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Setapak Jember Besar",
+      "stock": 100,
+      "hpp": 40000,
+      "price": 48000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Setapak Jember Jumbo",
+      "stock": 100,
+      "hpp": 75000,
+      "price": 90000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Setapak Jember Kecil",
+      "stock": 100,
+      "hpp": 30000,
+      "price": 45000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Setapak Jember Merah Besar (Random Bisi )",
+      "stock": 100,
+      "hpp": 50000,
+      "price": 60000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Setapak Jember Merah Kecil ( Random Bisi )",
+      "stock": 100,
+      "hpp": 30000,
+      "price": 50000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Setapak jember besar",
+      "stock": 100,
+      "hpp": 40000,
+      "price": 75000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Sika",
+      "stock": 100,
+      "hpp": 190000,
+      "price": 235000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Sika Seram",
+      "stock": 100,
+      "hpp": 190000,
+      "price": 235000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Sika grout",
+      "stock": 100,
+      "hpp": 190000,
+      "price": 235000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Stik Andesit 3x30",
+      "stock": 100,
+      "hpp": 105000,
+      "price": 100000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Stik Andesit 3x40",
+      "stock": 100,
+      "hpp": 110000,
+      "price": 132000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Stik Andesit 5x40",
+      "stock": 100,
+      "hpp": 110000,
+      "price": 105000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Stik Palem 5 x 40",
+      "stock": 100,
+      "hpp": 90000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Templek Jember Halus",
+      "stock": 100,
+      "hpp": 55000,
+      "price": 75000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Templek Jember Kasar",
+      "stock": 100,
+      "hpp": 45000,
+      "price": 54000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Templek Jember halus",
+      "stock": 100,
+      "hpp": 55000,
+      "price": 66000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Tias Candi",
+      "stock": 100,
+      "hpp": 8200,
+      "price": 10000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Tias Putih tulang",
+      "stock": 100,
+      "hpp": 8000,
+      "price": 9000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Tias putih tulang",
+      "stock": 100,
+      "hpp": 8000,
+      "price": 9000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Viorin Bakar 20x40x1,5",
+      "stock": 100,
+      "hpp": 120000,
+      "price": 144000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Viorin Bakar 30x60x1,5",
+      "stock": 100,
+      "hpp": 135000,
+      "price": 170000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Viorin bakar 20x40x1,5",
+      "stock": 100,
+      "hpp": 135000,
+      "price": 135000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Westafel Putih Alur",
+      "stock": 100,
+      "hpp": 300000,
+      "price": 360000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Westafel Putih Polis",
+      "stock": 100,
+      "hpp": 300000,
+      "price": 400000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Westafel hitam",
+      "stock": 100,
+      "hpp": 165000,
+      "price": 220000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Ziolit 20x40x2",
+      "stock": 100,
+      "hpp": 83000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "Ziolit 20x40x5",
+      "stock": 100,
+      "hpp": 220000,
+      "price": 240000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "alur anyam bali green",
+      "stock": 100,
+      "hpp": 91000,
+      "price": 110000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "alur anyam ziolit",
+      "stock": 100,
+      "hpp": 98000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "alur cacing ziolit",
+      "stock": 100,
+      "hpp": 98000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "alur cungkil bali green",
+      "stock": 100,
+      "hpp": 91000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "alur cungkil ziolit",
+      "stock": 100,
+      "hpp": 98000,
+      "price": 130000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "alur lurus bali green",
+      "stock": 100,
+      "hpp": 91000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "alur lurus ziolit",
+      "stock": 100,
+      "hpp": 98000,
+      "price": 144000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "alur matahari ziolit",
+      "stock": 100,
+      "hpp": 103000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 10x10x1,5 bakar",
+      "stock": 100,
+      "hpp": 95000,
+      "price": 100000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 10x10x5 RTa ( cobal )",
+      "stock": 100,
+      "hpp": 215000,
+      "price": 260000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 10x20x1,5 bakar",
+      "stock": 100,
+      "hpp": 95000,
+      "price": 110000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 10x30x3 bakar",
+      "stock": 100,
+      "hpp": 195000,
+      "price": 330000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 15x15x1,5 bakar",
+      "stock": 100,
+      "hpp": 105000,
+      "price": 126000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 15x40x3 bakar",
+      "stock": 100,
+      "hpp": 240000,
+      "price": 272000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 15x60x1,5 bakar",
+      "stock": 100,
+      "hpp": 120000,
+      "price": 160000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 15x60x5 bakar",
+      "stock": 100,
+      "hpp": 335000,
+      "price": 402000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 20x20x1,5 bakar",
+      "stock": 100,
+      "hpp": 111000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 20x20x3 bakar",
+      "stock": 100,
+      "hpp": 200000,
+      "price": 250000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 20x30x1,5 bakar",
+      "stock": 100,
+      "hpp": 116000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 20x30x3 bakar",
+      "stock": 100,
+      "hpp": 205000,
+      "price": 280000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 20x40x1,5 bakar",
+      "stock": 100,
+      "hpp": 120000,
+      "price": 125000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 20x40x1,5 non bakar",
+      "stock": 100,
+      "hpp": 95000,
+      "price": 105000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 20x40x1,5 poles",
+      "stock": 100,
+      "hpp": 189000,
+      "price": 210000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 20x40x3 bakar",
+      "stock": 100,
+      "hpp": 235000,
+      "price": 300000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 20x40x5 bakar",
+      "stock": 100,
+      "hpp": 330000,
+      "price": 380000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 20x60x1,5 bakar",
+      "stock": 100,
+      "hpp": 120000,
+      "price": 136000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 30x120x1,5 bakar",
+      "stock": 100,
+      "hpp": 400000,
+      "price": 512500,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 30x30x1,5 bakar",
+      "stock": 100,
+      "hpp": 130000,
+      "price": 135000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 30x30x3 bakar",
+      "stock": 100,
+      "hpp": 235000,
+      "price": 286000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 30x30x3 poles",
+      "stock": 100,
+      "hpp": 225000,
+      "price": 270000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 30x30x5 bakar",
+      "stock": 100,
+      "hpp": 330000,
+      "price": 396000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 30x40x1,5 bakar",
+      "stock": 100,
+      "hpp": 136000,
+      "price": 145000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 30x40x3 bakar",
+      "stock": 100,
+      "hpp": 240000,
+      "price": 280000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 30x40x5 bakar",
+      "stock": 100,
+      "hpp": 345000,
+      "price": 400000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 30x60x1,5 bakar",
+      "stock": 100,
+      "hpp": 135000,
+      "price": 148500,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 30x60x1,5 poles",
+      "stock": 100,
+      "hpp": 200000,
+      "price": 300000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 30x60x3 bakar",
+      "stock": 100,
+      "hpp": 245000,
+      "price": 302500,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 30x60x5 bakar",
+      "stock": 100,
+      "hpp": 355000,
+      "price": 412500,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 30x60x8 bakar",
+      "stock": 100,
+      "hpp": 500000,
+      "price": 550000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 40x40x1,5 bakar",
+      "stock": 100,
+      "hpp": 136000,
+      "price": 145000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 40x40x1,5 non bakar",
+      "stock": 100,
+      "hpp": 125000,
+      "price": 125000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 40x40x1,5 poles",
+      "stock": 100,
+      "hpp": 200000,
+      "price": 250000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 40x40x3 bakar",
+      "stock": 100,
+      "hpp": 262000,
+      "price": 300000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 40x40x5 bakar",
+      "stock": 100,
+      "hpp": 345000,
+      "price": 420000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 40x60x1,5 bakar",
+      "stock": 100,
+      "hpp": 156000,
+      "price": 170000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 40x60x1,5 non bakar",
+      "stock": 100,
+      "hpp": 145000,
+      "price": 150000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 40x60x1,5 poles",
+      "stock": 100,
+      "hpp": 235000,
+      "price": 280000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 40x60x3 bakar",
+      "stock": 100,
+      "hpp": 300000,
+      "price": 340000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 40x60x5 bakar",
+      "stock": 100,
+      "hpp": 448000,
+      "price": 560000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 50x100x1,5 bakar",
+      "stock": 100,
+      "hpp": 200000,
+      "price": 285000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 50x120x1,5 bakar",
+      "stock": 100,
+      "hpp": 210000,
+      "price": 285000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 50x50x1,5 bakar",
+      "stock": 100,
+      "hpp": 150000,
+      "price": 200000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 5x40x5 bakar",
+      "stock": 100,
+      "hpp": 330000,
+      "price": 396000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 60x100x1,5 bakar",
+      "stock": 100,
+      "hpp": 410000,
+      "price": 400000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 60x60x1,5 bakar",
+      "stock": 100,
+      "hpp": 210000,
+      "price": 237500,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 60x60x1,5 poles",
+      "stock": 100,
+      "hpp": 290000,
+      "price": 297000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit 60x60x3 bakar",
+      "stock": 100,
+      "hpp": 410000,
+      "price": 425000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "andesit tulungagung 20x40x2",
+      "stock": 100,
+      "hpp": 113000,
+      "price": 130000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "bali green 20x40x2",
+      "stock": 100,
+      "hpp": 82000,
+      "price": 90000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "bali green 20x40x3",
+      "stock": 100,
+      "hpp": 128000,
+      "price": 155000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "bali green 20x40x5",
+      "stock": 100,
+      "hpp": 198000,
+      "price": 240000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "batik green 20x40x2",
+      "stock": 100,
+      "hpp": 92000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "batu koral hijau",
+      "stock": 100,
+      "hpp": 19000,
+      "price": 30000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "batu koral marun",
+      "stock": 100,
+      "hpp": 15000,
+      "price": 30000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "batu koral putih M",
+      "stock": 100,
+      "hpp": 15000,
+      "price": 25000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "batu koral putih m",
+      "stock": 100,
+      "hpp": 15000,
+      "price": 25000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "batu putih bulat",
+      "stock": 100,
+      "hpp": 15000,
+      "price": 20000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "batu sikat cream",
+      "stock": 100,
+      "hpp": 16000,
+      "price": 35000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "candi 20x30x2",
+      "stock": 100,
+      "hpp": 80000,
+      "price": 90000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "candi 20x30x3",
+      "stock": 100,
+      "hpp": 131000,
+      "price": 150000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "candi 20x30x5",
+      "stock": 100,
+      "hpp": 196000,
+      "price": 150000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "candi 20x40x2",
+      "stock": 100,
+      "hpp": 91000,
+      "price": 95000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "candi 20x40x3",
+      "stock": 100,
+      "hpp": 150000,
+      "price": 160000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "candi 20x40x5",
+      "stock": 100,
+      "hpp": 223000,
+      "price": 240000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "candi 30x30x2",
+      "stock": 100,
+      "hpp": 95000,
+      "price": 115000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "candi 30x30x3",
+      "stock": 100,
+      "hpp": 190000,
+      "price": 187000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "candi 30x30x5",
+      "stock": 100,
+      "hpp": 225000,
+      "price": 253000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "candi 30x40x2",
+      "stock": 100,
+      "hpp": 98000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "candi 30x40x3",
+      "stock": 100,
+      "hpp": 175000,
+      "price": 200000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "candi 30x40x5",
+      "stock": 100,
+      "hpp": 235000,
+      "price": 256000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "candi 30x60x2",
+      "stock": 100,
+      "hpp": 115000,
+      "price": 137500,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "candi 30x60x3",
+      "stock": 100,
+      "hpp": 200000,
+      "price": 200000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "candi 30x60x5",
+      "stock": 100,
+      "hpp": 238000,
+      "price": 275000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "candi 40x40x2",
+      "stock": 100,
+      "hpp": 108000,
+      "price": 140000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "candi 40x40x3",
+      "stock": 100,
+      "hpp": 175000,
+      "price": 20000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "candi 40x40x5",
+      "stock": 100,
+      "hpp": 238000,
+      "price": 250000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "dispenser",
+      "stock": 100,
+      "hpp": 80000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "ganggong 10 candi",
+      "stock": 100,
+      "hpp": 9000,
+      "price": 11000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "ganggong 10 putih tulang",
+      "stock": 100,
+      "hpp": 8000,
+      "price": 10000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "ganggong 3 candi",
+      "stock": 100,
+      "hpp": 3600,
+      "price": 5000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "ganggong 3 putih tulang",
+      "stock": 100,
+      "hpp": 3600,
+      "price": 5000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "ganggong 4,5 candi",
+      "stock": 100,
+      "hpp": 5300,
+      "price": 7000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "ganggong 4,5 putih tulang",
+      "stock": 100,
+      "hpp": 5000,
+      "price": 7000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "ganggong 4,5 ziolit",
+      "stock": 100,
+      "hpp": 5800,
+      "price": 7000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "ganggong 4x4 candi",
+      "stock": 100,
+      "hpp": 5500,
+      "price": 8000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "ganggong 4x4 putih tulang",
+      "stock": 100,
+      "hpp": 5200,
+      "price": 7000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "ganggong 4x6 candi",
+      "stock": 100,
+      "hpp": 6100,
+      "price": 8000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "ganggong 5x5 andesit",
+      "stock": 100,
+      "hpp": 9000,
+      "price": 12000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "ganggong 5x5 candi",
+      "stock": 100,
+      "hpp": 6500,
+      "price": 7000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "ganggong 5x5 putih tulang",
+      "stock": 100,
+      "hpp": 5300,
+      "price": 7000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "ganggong 5x7 candi",
+      "stock": 100,
+      "hpp": 8000,
+      "price": 10000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "ganggong 5x7 putih tulang",
+      "stock": 100,
+      "hpp": 7000,
+      "price": 9000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "ganggong 5x7 ziolit",
+      "stock": 100,
+      "hpp": 9000,
+      "price": 9000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "ganggong 6 bali green",
+      "stock": 100,
+      "hpp": 5800,
+      "price": 8000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "ganggong 6 candi",
+      "stock": 100,
+      "hpp": 5600,
+      "price": 8000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "ganggong 6 putih tulang",
+      "stock": 100,
+      "hpp": 5800,
+      "price": 8000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "green sukabumi 10x10 Ekspor",
+      "stock": 100,
+      "hpp": 165000,
+      "price": 200000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "green sukabumi 10x10 ekspor",
+      "stock": 100,
+      "hpp": 165000,
+      "price": 185000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "green sukabumi 10x20",
+      "stock": 100,
+      "hpp": 105000,
+      "price": 110000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "green sukabumi 10x20 Ekspor",
+      "stock": 100,
+      "hpp": 170000,
+      "price": 215000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "green sukabumi 10x20 ekspor",
+      "stock": 100,
+      "hpp": 170000,
+      "price": 190000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "green sukabumi 15x15",
+      "stock": 100,
+      "hpp": 108000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "green sukabumi 15x15 ekspor",
+      "stock": 100,
+      "hpp": 180000,
+      "price": 200000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "green sukabumi 15x30",
+      "stock": 100,
+      "hpp": 120000,
+      "price": 160000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "green sukabumi 20x20",
+      "stock": 100,
+      "hpp": 122000,
+      "price": 135000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "green sukabumi 20x20 ekspor",
+      "stock": 100,
+      "hpp": 185000,
+      "price": 200000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "kulitan paras 10x30",
+      "stock": 100,
+      "hpp": 110000,
+      "price": 135000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "kulitan paras 20x40",
+      "stock": 100,
+      "hpp": 105000,
+      "price": 130000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "lem blassbond",
+      "stock": 100,
+      "hpp": 55000,
+      "price": 65000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "lem protex one",
+      "stock": 100,
+      "hpp": 55000,
+      "price": 65000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "lis bunga besar",
+      "stock": 100,
+      "hpp": 36000,
+      "price": 30000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "lis bunga kecil",
+      "stock": 100,
+      "hpp": 11000,
+      "price": 16000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "lis bunga setengah",
+      "stock": 100,
+      "hpp": 15000,
+      "price": 16000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "lis diagonal 6 cm putih",
+      "stock": 100,
+      "hpp": 13000,
+      "price": 17000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "lis diagonal 8 cm putih",
+      "stock": 100,
+      "hpp": 13000,
+      "price": 15000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "lis double andesit",
+      "stock": 100,
+      "hpp": 18000,
+      "price": 22000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "lis double ziolit",
+      "stock": 100,
+      "hpp": 17000,
+      "price": 20400,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "lis lengkung 6cm",
+      "stock": 100,
+      "hpp": 14000,
+      "price": 15000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "marmer 60x60x2",
+      "stock": 100,
+      "hpp": 270000,
+      "price": 360000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "marmo  putih tulang",
+      "stock": 100,
+      "hpp": 78000,
+      "price": 130000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "marmo Hitam",
+      "stock": 100,
+      "hpp": 115000,
+      "price": 138000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "marmo hijau kolam",
+      "stock": 100,
+      "hpp": 90000,
+      "price": 100000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "marmo hijau kolam 10x10",
+      "stock": 100,
+      "hpp": 85000,
+      "price": 102000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "marmo hijau kolam 20x20",
+      "stock": 100,
+      "hpp": 95000,
+      "price": 110000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "marmo hitam",
+      "stock": 100,
+      "hpp": 115000,
+      "price": 130000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "marmo pacito roso",
+      "stock": 100,
+      "hpp": 115000,
+      "price": 135000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "marmo palem 10x20",
+      "stock": 100,
+      "hpp": 75000,
+      "price": 90000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "marmo palem 20x40",
+      "stock": 100,
+      "hpp": 100000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "marmo trotol",
+      "stock": 100,
+      "hpp": 120000,
+      "price": 135000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "marmo trotol 20x20",
+      "stock": 100,
+      "hpp": 115000,
+      "price": 138000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "nat hijau",
+      "stock": 100,
+      "hpp": 10000,
+      "price": 15000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "neon candi",
+      "stock": 100,
+      "hpp": 12000,
+      "price": 12000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "neon putih tulang",
+      "stock": 100,
+      "hpp": 11000,
+      "price": 14000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "neon serat jati",
+      "stock": 100,
+      "hpp": 10000,
+      "price": 14000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "neon ziolit",
+      "stock": 100,
+      "hpp": 12000,
+      "price": 14000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "pae 1 bali green",
+      "stock": 100,
+      "hpp": 13000,
+      "price": 14000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "pae 1 candi",
+      "stock": 100,
+      "hpp": 13000,
+      "price": 15000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "pae 1 putih tulang",
+      "stock": 100,
+      "hpp": 12000,
+      "price": 15000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "pae 1 ziolit",
+      "stock": 100,
+      "hpp": 14000,
+      "price": 14000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "pae 2 bali green",
+      "stock": 100,
+      "hpp": 13000,
+      "price": 14000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "pae 2 candi",
+      "stock": 100,
+      "hpp": 13000,
+      "price": 15000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "pae 2 putih tulang",
+      "stock": 100,
+      "hpp": 12000,
+      "price": 15000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "pae 2 serat jati",
+      "stock": 100,
+      "hpp": 11000,
+      "price": 15000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "pae 2 ziolit",
+      "stock": 100,
+      "hpp": 14000,
+      "price": 15000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "palem  20x40x2",
+      "stock": 100,
+      "hpp": 90000,
+      "price": 110000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "palem 30x30x5",
+      "stock": 100,
+      "hpp": 305000,
+      "price": 366000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "palem palimanan 30x60x1,5",
+      "stock": 100,
+      "hpp": 120000,
+      "price": 130000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "paras Tulungagung 20x40x2",
+      "stock": 100,
+      "hpp": 105000,
+      "price": 90000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "paras cream 20x40x2",
+      "stock": 100,
+      "hpp": 85000,
+      "price": 100000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "paras cream 20x40x3",
+      "stock": 100,
+      "hpp": 145000,
+      "price": 150000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "paras cream 20x40x5",
+      "stock": 100,
+      "hpp": 180000,
+      "price": 192000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "paras doreng 20x30x2",
+      "stock": 100,
+      "hpp": 75000,
+      "price": 90000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "paras doreng 20x40x2",
+      "stock": 100,
+      "hpp": 85000,
+      "price": 95000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "paras jember 10x10",
+      "stock": 100,
+      "hpp": 65000,
+      "price": 105000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "paras jember 10x20",
+      "stock": 100,
+      "hpp": 55000,
+      "price": 80000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "paras jember 15x30",
+      "stock": 100,
+      "hpp": 65000,
+      "price": 100000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "paras jember 17x35",
+      "stock": 100,
+      "hpp": 90000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "paras jember 20x40",
+      "stock": 100,
+      "hpp": 80000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "paras jember 30x30",
+      "stock": 100,
+      "hpp": 65000,
+      "price": 100000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "paras jember 40x40",
+      "stock": 100,
+      "hpp": 85000,
+      "price": 210000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "paras tulungagung 20x40x2",
+      "stock": 100,
+      "hpp": 105000,
+      "price": 135000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "paras tulungagung 20x40x3",
+      "stock": 100,
+      "hpp": 133000,
+      "price": 165000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "paras tulungagung 20x40x5",
+      "stock": 100,
+      "hpp": 180000,
+      "price": 240000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "putih Tulang 20x30x2",
+      "stock": 100,
+      "hpp": 65000,
+      "price": 85000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "putih Tulang 20x40x2",
+      "stock": 100,
+      "hpp": 85000,
+      "price": 85000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "putih abu 20x40x2",
+      "stock": 100,
+      "hpp": 90000,
+      "price": 85000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "putih abu 20x40x3",
+      "stock": 100,
+      "hpp": 150000,
+      "price": 150000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "putih abu 20x40x5",
+      "stock": 100,
+      "hpp": 210000,
+      "price": 220000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "putih semi 20x30x2",
+      "stock": 100,
+      "hpp": 90000,
+      "price": 105000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "putih semi 20x40x2",
+      "stock": 100,
+      "hpp": 100000,
+      "price": 108000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "putih semi 20x40x3",
+      "stock": 100,
+      "hpp": 150000,
+      "price": 150000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "putih semi 20x40x5",
+      "stock": 100,
+      "hpp": 220000,
+      "price": 235000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "putih super 20x40x2",
+      "stock": 100,
+      "hpp": 125000,
+      "price": 150000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "putih super 30x60x2",
+      "stock": 100,
+      "hpp": 145000,
+      "price": 170000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "putih super 30x60x5",
+      "stock": 100,
+      "hpp": 300000,
+      "price": 412500,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "putih tulang 20x30x2",
+      "stock": 100,
+      "hpp": 65000,
+      "price": 80000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "putih tulang 20x40x2",
+      "stock": 100,
+      "hpp": 85000,
+      "price": 95000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "putih tulang 20x40x3",
+      "stock": 100,
+      "hpp": 135000,
+      "price": 160000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "putih tulang 20x40x5",
+      "stock": 100,
+      "hpp": 191000,
+      "price": 210000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "putih tulang 30x30x2",
+      "stock": 100,
+      "hpp": 78000,
+      "price": 110000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "putih tulang 30x30x3",
+      "stock": 100,
+      "hpp": 140000,
+      "price": 165000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "putih tulang 30x30x5",
+      "stock": 100,
+      "hpp": 200000,
+      "price": 242000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "putih tulang 30x40x5",
+      "stock": 100,
+      "hpp": 205000,
+      "price": 240000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "putih tulang 30x60x2",
+      "stock": 100,
+      "hpp": 85000,
+      "price": 110000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "putih tulang 30x60x3",
+      "stock": 100,
+      "hpp": 147000,
+      "price": 192500,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "putih tulang 30x60x5",
+      "stock": 100,
+      "hpp": 210000,
+      "price": 247500,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "putih tulang 40x40x2",
+      "stock": 100,
+      "hpp": 95000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "putih tulang 40x40x3",
+      "stock": 100,
+      "hpp": 147000,
+      "price": 198000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "putih tulang 40x40x5",
+      "stock": 100,
+      "hpp": 210000,
+      "price": 240000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "putih tulang 40x60x5",
+      "stock": 100,
+      "hpp": 210000,
+      "price": 320000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "rts candi 20x40x3",
+      "stock": 100,
+      "hpp": 90000,
+      "price": 100000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "serai",
+      "stock": 100,
+      "hpp": 100000,
+      "price": 110000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "serat jati 20x40x2",
+      "stock": 100,
+      "hpp": 88000,
+      "price": 100000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "setapak batu kali",
+      "stock": 100,
+      "hpp": 28000,
+      "price": 40000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "setapak jember besar",
+      "stock": 100,
+      "hpp": 40000,
+      "price": 60000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "setapak jember kecil",
+      "stock": 100,
+      "hpp": 30000,
+      "price": 50000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "sika",
+      "stock": 100,
+      "hpp": 270000,
+      "price": 315000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "stik Andesit 3x30",
+      "stock": 100,
+      "hpp": 90000,
+      "price": 90000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "stik Andesit 5x30",
+      "stock": 100,
+      "hpp": 80000,
+      "price": 80000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "stik andesit 3x30",
+      "stock": 100,
+      "hpp": 105000,
+      "price": 110000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "stik andesit 3x40",
+      "stock": 100,
+      "hpp": 110000,
+      "price": 115000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "stik andesit 5x30",
+      "stock": 100,
+      "hpp": 110000,
+      "price": 90000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "stik andesit 5x40",
+      "stock": 100,
+      "hpp": 110000,
+      "price": 110000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "stik palem 5 x 40",
+      "stock": 100,
+      "hpp": 90000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "templek jember kasar",
+      "stock": 100,
+      "hpp": 45000,
+      "price": 80000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "tias andesit",
+      "stock": 100,
+      "hpp": 8000,
+      "price": 15000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "tias bali green",
+      "stock": 100,
+      "hpp": 8000,
+      "price": 10000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "tias candi",
+      "stock": 100,
+      "hpp": 8200,
+      "price": 10000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "tias putih tulang",
+      "stock": 100,
+      "hpp": 8000,
+      "price": 10000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "westafel hitam",
+      "stock": 100,
+      "hpp": 165000,
+      "price": 250000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "westafel putih polis",
+      "stock": 100,
+      "hpp": 300000,
+      "price": 500000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "ziolit 20x40x2",
+      "stock": 100,
+      "hpp": 83000,
+      "price": 120000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "ziolit 20x40x3",
+      "stock": 100,
+      "hpp": 136000,
+      "price": 160000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    },
+    {
+      "name": "ziolit 20x40x5",
+      "stock": 100,
+      "hpp": 220000,
+      "price": 245000,
+      "unit": "m2",
+      "category": "Batu Alam"
+    }
+  ],
+  "customers": [
+    {
+      "name": "Kappa Sense",
+      "phone": "-",
+      "address": "-",
+      "balance": 1076588650
+    },
+    {
+      "name": "Ayatara Puhu",
+      "phone": "-",
+      "address": "-",
+      "balance": 987575000
+    },
+    {
+      "name": "Sanggra Loka Farm",
+      "phone": "-",
+      "address": "-",
+      "balance": 811490000
+    },
+    {
+      "name": "Winakara",
+      "phone": "-",
+      "address": "-",
+      "balance": 650560500
+    },
+    {
+      "name": "Pak Kadek Proyek Batuan",
+      "phone": "-",
+      "address": "-",
+      "balance": 631929000
+    },
+    {
+      "name": "Komang Kedewatan",
+      "phone": "-",
+      "address": "-",
+      "balance": 449350000
+    },
+    {
+      "name": "Toko Canggu",
+      "phone": "-",
+      "address": "-",
+      "balance": 446784500
+    },
+    {
+      "name": "Uluwatu Resort Bresela",
+      "phone": "-",
+      "address": "-",
+      "balance": 393560000
+    },
+    {
+      "name": "Vice Roy ( Dekna )",
+      "phone": "-",
+      "address": "-",
+      "balance": 352215000
+    },
+    {
+      "name": "Pak Kadek Proyek Rapuan Cili",
+      "phone": "-",
+      "address": "-",
+      "balance": 347040000
+    },
+    {
+      "name": "Pak Utek",
+      "phone": "-",
+      "address": "-",
+      "balance": 342638000
+    },
+    {
+      "name": "Pak Kadek Proyek Sakah",
+      "phone": "-",
+      "address": "-",
+      "balance": 336764000
+    },
+    {
+      "name": "Ulit Pejeng",
+      "phone": "-",
+      "address": "-",
+      "balance": 257229628
+    },
+    {
+      "name": "Mang Opret",
+      "phone": "-",
+      "address": "-",
+      "balance": 239795000
+    },
+    {
+      "name": "Damara Villa",
+      "phone": "-",
+      "address": "-",
+      "balance": 239056000
+    },
+    {
+      "name": "Pakyan Darsa",
+      "phone": "-",
+      "address": "-",
+      "balance": 237914500
+    },
+    {
+      "name": "Toko CAnggu",
+      "phone": "-",
+      "address": "-",
+      "balance": 211687000
+    },
+    {
+      "name": "Ulit pejeng",
+      "phone": "-",
+      "address": "-",
+      "balance": 194735151
+    },
+    {
+      "name": "Proyek Tojan Dekna",
+      "phone": "-",
+      "address": "-",
+      "balance": 175175000
+    },
+    {
+      "name": "Pak Ngurah Tebongkang",
+      "phone": "-",
+      "address": "-",
+      "balance": 174885000
+    },
+    {
+      "name": "Suratman Payangan",
+      "phone": "-",
+      "address": "-",
+      "balance": 173644000
+    },
+    {
+      "name": "Wayan Mustika",
+      "phone": "-",
+      "address": "-",
+      "balance": 170850000
+    },
+    {
+      "name": "Suarnata",
+      "phone": "-",
+      "address": "-",
+      "balance": 165387500
+    },
+    {
+      "name": "Dek Mus",
+      "phone": "-",
+      "address": "-",
+      "balance": 157434000
+    },
+    {
+      "name": "Mas Roslianto Ubud",
+      "phone": "-",
+      "address": "-",
+      "balance": 141845000
+    },
+    {
+      "name": "Pak Dewa Winata",
+      "phone": "-",
+      "address": "-",
+      "balance": 120102500
+    },
+    {
+      "name": "Edo Pratama",
+      "phone": "-",
+      "address": "-",
+      "balance": 119230000
+    },
+    {
+      "name": "Proyek Kemenuh",
+      "phone": "-",
+      "address": "-",
+      "balance": 112682500
+    },
+    {
+      "name": "Sedana Yasa",
+      "phone": "-",
+      "address": "-",
+      "balance": 102250000
+    },
+    {
+      "name": "Peter",
+      "phone": "-",
+      "address": "-",
+      "balance": 95370000
+    },
+    {
+      "name": "Merta Kepakisan",
+      "phone": "-",
+      "address": "-",
+      "balance": 93124000
+    },
+    {
+      "name": "chimp",
+      "phone": "-",
+      "address": "-",
+      "balance": 92300000
+    },
+    {
+      "name": "Alas Harum",
+      "phone": "-",
+      "address": "-",
+      "balance": 92138000
+    },
+    {
+      "name": "sedana yasa",
+      "phone": "-",
+      "address": "-",
+      "balance": 89020000
+    },
+    {
+      "name": "Honeymoon",
+      "phone": "-",
+      "address": "-",
+      "balance": 85604000
+    },
+    {
+      "name": "Wayan Erik",
+      "phone": "-",
+      "address": "-",
+      "balance": 84925000
+    },
+    {
+      "name": "PAK Kadek Proyek BAtuan",
+      "phone": "-",
+      "address": "-",
+      "balance": 84450000
+    },
+    {
+      "name": "Pak Suarnata",
+      "phone": "-",
+      "address": "-",
+      "balance": 80260000
+    },
+    {
+      "name": "Mas Wawan",
+      "phone": "-",
+      "address": "-",
+      "balance": 78301975
+    },
+    {
+      "name": "Pak Rame",
+      "phone": "-",
+      "address": "-",
+      "balance": 78118000
+    },
+    {
+      "name": "Pak Hallo",
+      "phone": "-",
+      "address": "-",
+      "balance": 78113000
+    },
+    {
+      "name": "The Kayon",
+      "phone": "-",
+      "address": "-",
+      "balance": 77837500
+    },
+    {
+      "name": "Chimp",
+      "phone": "-",
+      "address": "-",
+      "balance": 70858006
+    },
+    {
+      "name": "Ajik Gita",
+      "phone": "-",
+      "address": "-",
+      "balance": 67480000
+    },
+    {
+      "name": "Pak Dana",
+      "phone": "-",
+      "address": "-",
+      "balance": 66754000
+    },
+    {
+      "name": "Villa Kori Maharani Siyut",
+      "phone": "-",
+      "address": "-",
+      "balance": 63315000
+    },
+    {
+      "name": "Gus Surya",
+      "phone": "-",
+      "address": "-",
+      "balance": 61725000
+    },
+    {
+      "name": "Dekna",
+      "phone": "-",
+      "address": "-",
+      "balance": 60978000
+    },
+    {
+      "name": "Pak Kadek proyek sakah",
+      "phone": "-",
+      "address": "-",
+      "balance": 60770000
+    },
+    {
+      "name": "Ibrahim",
+      "phone": "-",
+      "address": "-",
+      "balance": 59505000
+    },
+    {
+      "name": "Dewa Ketut Carma",
+      "phone": "-",
+      "address": "-",
+      "balance": 56322500
+    },
+    {
+      "name": "Pak Dewa Mas",
+      "phone": "-",
+      "address": "-",
+      "balance": 56151000
+    },
+    {
+      "name": "PAk Ngurah Tebongkang",
+      "phone": "-",
+      "address": "-",
+      "balance": 52711000
+    },
+    {
+      "name": "Chapel Gentong",
+      "phone": "-",
+      "address": "-",
+      "balance": 51000000
+    },
+    {
+      "name": "Pak Partading",
+      "phone": "-",
+      "address": "-",
+      "balance": 49770000
+    },
+    {
+      "name": "Pak Nia",
+      "phone": "-",
+      "address": "-",
+      "balance": 46794500
+    },
+    {
+      "name": "Villa Payogan",
+      "phone": "-",
+      "address": "-",
+      "balance": 43990000
+    },
+    {
+      "name": "Blis Hotel",
+      "phone": "-",
+      "address": "-",
+      "balance": 42493500
+    },
+    {
+      "name": "Pak Mus",
+      "phone": "-",
+      "address": "-",
+      "balance": 41494000
+    },
+    {
+      "name": "Sedana YAsa",
+      "phone": "-",
+      "address": "-",
+      "balance": 40453000
+    },
+    {
+      "name": "Proyek Mas Kadek",
+      "phone": "-",
+      "address": "-",
+      "balance": 40310000
+    },
+    {
+      "name": "Komang Klungkung",
+      "phone": "-",
+      "address": "-",
+      "balance": 38030000
+    },
+    {
+      "name": "Pak Pande Pejeng",
+      "phone": "-",
+      "address": "-",
+      "balance": 37959000
+    },
+    {
+      "name": "Gus Eka Pejeng",
+      "phone": "-",
+      "address": "-",
+      "balance": 37180000
+    },
+    {
+      "name": "Gung Kupit",
+      "phone": "-",
+      "address": "-",
+      "balance": 36405000
+    },
+    {
+      "name": "Pak Ngurah",
+      "phone": "-",
+      "address": "-",
+      "balance": 35095000
+    },
+    {
+      "name": "Pak Nesa Kemenuh",
+      "phone": "-",
+      "address": "-",
+      "balance": 35062500
+    },
+    {
+      "name": "Villa Damara",
+      "phone": "-",
+      "address": "-",
+      "balance": 34440000
+    },
+    {
+      "name": "Wayan Artawan",
+      "phone": "-",
+      "address": "-",
+      "balance": 34200000
+    },
+    {
+      "name": "Honey moon",
+      "phone": "-",
+      "address": "-",
+      "balance": 33400000
+    },
+    {
+      "name": "Pak Jimi",
+      "phone": "-",
+      "address": "-",
+      "balance": 33244000
+    },
+    {
+      "name": "Rozi",
+      "phone": "-",
+      "address": "-",
+      "balance": 32520000
+    },
+    {
+      "name": "Gery",
+      "phone": "-",
+      "address": "-",
+      "balance": 31555000
+    },
+    {
+      "name": "Dewa Wirata",
+      "phone": "-",
+      "address": "-",
+      "balance": 31050000
+    },
+    {
+      "name": "Pak Lawa Sebatu",
+      "phone": "-",
+      "address": "-",
+      "balance": 30340000
+    },
+    {
+      "name": "kappa sense",
+      "phone": "-",
+      "address": "-",
+      "balance": 30000000
+    },
+    {
+      "name": "winakara",
+      "phone": "-",
+      "address": "-",
+      "balance": 29850000
+    },
+    {
+      "name": "Yuda Mahendra",
+      "phone": "-",
+      "address": "-",
+      "balance": 29025000
+    },
+    {
+      "name": "Pak Bulus",
+      "phone": "-",
+      "address": "-",
+      "balance": 28765000
+    },
+    {
+      "name": "Pak utek",
+      "phone": "-",
+      "address": "-",
+      "balance": 28538000
+    },
+    {
+      "name": "Amora Ubud",
+      "phone": "-",
+      "address": "-",
+      "balance": 28530000
+    },
+    {
+      "name": "Mang OPret",
+      "phone": "-",
+      "address": "-",
+      "balance": 28152000
+    },
+    {
+      "name": "Diana",
+      "phone": "-",
+      "address": "-",
+      "balance": 27050000
+    },
+    {
+      "name": "Sarya Mas",
+      "phone": "-",
+      "address": "-",
+      "balance": 26400000
+    },
+    {
+      "name": "Dagus Surya",
+      "phone": "-",
+      "address": "-",
+      "balance": 24185000
+    },
+    {
+      "name": "Gede Eka",
+      "phone": "-",
+      "address": "-",
+      "balance": 24100000
+    },
+    {
+      "name": "Wayan erik",
+      "phone": "-",
+      "address": "-",
+      "balance": 24009000
+    },
+    {
+      "name": "Komang Mambal",
+      "phone": "-",
+      "address": "-",
+      "balance": 23750000
+    },
+    {
+      "name": "Bu Deby",
+      "phone": "-",
+      "address": "-",
+      "balance": 22615000
+    },
+    {
+      "name": "Tresna Karangasem",
+      "phone": "-",
+      "address": "-",
+      "balance": 22200000
+    },
+    {
+      "name": "Pak Rame",
+      "phone": "-",
+      "address": "-",
+      "balance": 22150000
+    },
+    {
+      "name": "Gus surya",
+      "phone": "-",
+      "address": "-",
+      "balance": 21940000
+    },
+    {
+      "name": "Surya Indra",
+      "phone": "-",
+      "address": "-",
+      "balance": 21600000
+    },
+    {
+      "name": "Pak Thoy Penestanan",
+      "phone": "-",
+      "address": "-",
+      "balance": 21595000
+    },
+    {
+      "name": "Sang Nyoman",
+      "phone": "-",
+      "address": "-",
+      "balance": 21494000
+    },
+    {
+      "name": "Pak Wirata",
+      "phone": "-",
+      "address": "-",
+      "balance": 21250000
+    },
+    {
+      "name": "Komang Sibang",
+      "phone": "-",
+      "address": "-",
+      "balance": 20900000
+    },
+    {
+      "name": "Pak Artawan Sayan",
+      "phone": "-",
+      "address": "-",
+      "balance": 20640000
+    },
+    {
+      "name": "Pak Tri Keliki Kangin",
+      "phone": "-",
+      "address": "-",
+      "balance": 20100000
+    },
+    {
+      "name": "Made Dila",
+      "phone": "-",
+      "address": "-",
+      "balance": 20000000
+    },
+    {
+      "name": "Base Restaurant",
+      "phone": "-",
+      "address": "-",
+      "balance": 19525000
+    },
+    {
+      "name": "Inara",
+      "phone": "-",
+      "address": "-",
+      "balance": 19200000
+    },
+    {
+      "name": "Paktu Oka",
+      "phone": "-",
+      "address": "-",
+      "balance": 18750000
+    },
+    {
+      "name": "Honey Moon",
+      "phone": "-",
+      "address": "-",
+      "balance": 17895000
+    },
+    {
+      "name": "Putu Lotunduh",
+      "phone": "-",
+      "address": "-",
+      "balance": 17780000
+    },
+    {
+      "name": "Kristana",
+      "phone": "-",
+      "address": "-",
+      "balance": 17730000
+    },
+    {
+      "name": "Pak Lawa",
+      "phone": "-",
+      "address": "-",
+      "balance": 17680000
+    },
+    {
+      "name": "Pak Selamet",
+      "phone": "-",
+      "address": "-",
+      "balance": 17650000
+    },
+    {
+      "name": "Pakmang Trio Penestanan",
+      "phone": "-",
+      "address": "-",
+      "balance": 17600000
+    },
+    {
+      "name": "Louna Kedisan",
+      "phone": "-",
+      "address": "-",
+      "balance": 17500000
+    },
+    {
+      "name": "PAK Jero",
+      "phone": "-",
+      "address": "-",
+      "balance": 16930000
+    },
+    {
+      "name": "Ananda Sanggingan",
+      "phone": "-",
+      "address": "-",
+      "balance": 16875000
+    },
+    {
+      "name": "Pak Mustika",
+      "phone": "-",
+      "address": "-",
+      "balance": 16855100
+    },
+    {
+      "name": "Bumi Mutiara",
+      "phone": "-",
+      "address": "-",
+      "balance": 16364000
+    },
+    {
+      "name": "Terra Ayu Sayan",
+      "phone": "-",
+      "address": "-",
+      "balance": 15955000
+    },
+    {
+      "name": "Pak Enggal",
+      "phone": "-",
+      "address": "-",
+      "balance": 15705000
+    },
+    {
+      "name": "Pak Sunarta",
+      "phone": "-",
+      "address": "-",
+      "balance": 15460000
+    },
+    {
+      "name": "PT Aman Bay Santosa",
+      "phone": "-",
+      "address": "-",
+      "balance": 15425000
+    },
+    {
+      "name": "Bungbung Karangasem",
+      "phone": "-",
+      "address": "-",
+      "balance": 15122000
+    },
+    {
+      "name": "Pak Kadek Banjar Tunon",
+      "phone": "-",
+      "address": "-",
+      "balance": 14850000
+    },
+    {
+      "name": "Wawan",
+      "phone": "-",
+      "address": "-",
+      "balance": 14800000
+    },
+    {
+      "name": "Pak Sanur",
+      "phone": "-",
+      "address": "-",
+      "balance": 14700000
+    },
+    {
+      "name": "Pak Gama",
+      "phone": "-",
+      "address": "-",
+      "balance": 14565000
+    },
+    {
+      "name": "Junjungan",
+      "phone": "-",
+      "address": "-",
+      "balance": 14062000
+    },
+    {
+      "name": "Tresna Manuaba",
+      "phone": "-",
+      "address": "-",
+      "balance": 13505000
+    },
+    {
+      "name": "Pura Desa Bunutan",
+      "phone": "-",
+      "address": "-",
+      "balance": 13500000
+    },
+    {
+      "name": "Dek Ari Padanggalak",
+      "phone": "-",
+      "address": "-",
+      "balance": 13302000
+    },
+    {
+      "name": "Artini Pengosekan",
+      "phone": "-",
+      "address": "-",
+      "balance": 12580000
+    },
+    {
+      "name": "Siswanto",
+      "phone": "-",
+      "address": "-",
+      "balance": 12490000
+    },
+    {
+      "name": "Pak Made Bangli",
+      "phone": "-",
+      "address": "-",
+      "balance": 12250000
+    },
+    {
+      "name": "Putu Krisna",
+      "phone": "-",
+      "address": "-",
+      "balance": 12230000
+    },
+    {
+      "name": "Mang opret",
+      "phone": "-",
+      "address": "-",
+      "balance": 12150000
+    },
+    {
+      "name": "PAk Mus",
+      "phone": "-",
+      "address": "-",
+      "balance": 12000000
+    },
+    {
+      "name": "Ocolus Kintamani",
+      "phone": "-",
+      "address": "-",
+      "balance": 11900000
+    },
+    {
+      "name": "Ananda",
+      "phone": "-",
+      "address": "-",
+      "balance": 11840000
+    },
+    {
+      "name": "Made Dita",
+      "phone": "-",
+      "address": "-",
+      "balance": 11550000
+    },
+    {
+      "name": "Pak Sukada",
+      "phone": "-",
+      "address": "-",
+      "balance": 11000000
+    },
+    {
+      "name": "Mas Arif",
+      "phone": "-",
+      "address": "-",
+      "balance": 10680000
+    },
+    {
+      "name": "Wayan Enggal Sanggingan",
+      "phone": "-",
+      "address": "-",
+      "balance": 10555000
+    },
+    {
+      "name": "Pak HAllo",
+      "phone": "-",
+      "address": "-",
+      "balance": 10300000
+    },
+    {
+      "name": "Pura Prajapati Ubud",
+      "phone": "-",
+      "address": "-",
+      "balance": 10200000
+    },
+    {
+      "name": "Sugiantara",
+      "phone": "-",
+      "address": "-",
+      "balance": 10200000
+    },
+    {
+      "name": "Pak Tingkes",
+      "phone": "-",
+      "address": "-",
+      "balance": 10125000
+    },
+    {
+      "name": "Pak Hendrik Pujung",
+      "phone": "-",
+      "address": "-",
+      "balance": 10000000
+    },
+    {
+      "name": "Ibu Dina",
+      "phone": "-",
+      "address": "-",
+      "balance": 9950000
+    },
+    {
+      "name": "Peter Baung",
+      "phone": "-",
+      "address": "-",
+      "balance": 9710000
+    },
+    {
+      "name": "Wayan Tunas",
+      "phone": "-",
+      "address": "-",
+      "balance": 9600000
+    },
+    {
+      "name": "Winakara Nyuh Kuning",
+      "phone": "-",
+      "address": "-",
+      "balance": 9370500
+    },
+    {
+      "name": "Dek Jugan",
+      "phone": "-",
+      "address": "-",
+      "balance": 9315000
+    },
+    {
+      "name": "Ananda Bunutan",
+      "phone": "-",
+      "address": "-",
+      "balance": 9125000
+    },
+    {
+      "name": "Pak Dewa Kutuh",
+      "phone": "-",
+      "address": "-",
+      "balance": 8920000
+    },
+    {
+      "name": "The Kayon",
+      "phone": "-",
+      "address": "-",
+      "balance": 8485000
+    },
+    {
+      "name": "Wartana",
+      "phone": "-",
+      "address": "-",
+      "balance": 8450000
+    },
+    {
+      "name": "Villa Daun Payangan",
+      "phone": "-",
+      "address": "-",
+      "balance": 8415000
+    },
+    {
+      "name": "Gunung Agung",
+      "phone": "-",
+      "address": "-",
+      "balance": 8400000
+    },
+    {
+      "name": "Pura Desa Mawang",
+      "phone": "-",
+      "address": "-",
+      "balance": 8377500
+    },
+    {
+      "name": "Pak partading",
+      "phone": "-",
+      "address": "-",
+      "balance": 8100000
+    },
+    {
+      "name": "Pak Gusti Made",
+      "phone": "-",
+      "address": "-",
+      "balance": 8010000
+    },
+    {
+      "name": "Pak Adi",
+      "phone": "-",
+      "address": "-",
+      "balance": 7795000
+    },
+    {
+      "name": "Villa Daun Lebat",
+      "phone": "-",
+      "address": "-",
+      "balance": 7630000
+    },
+    {
+      "name": "Arsof",
+      "phone": "-",
+      "address": "-",
+      "balance": 7600000
+    },
+    {
+      "name": "Alit Bongkasa",
+      "phone": "-",
+      "address": "-",
+      "balance": 7550000
+    },
+    {
+      "name": "Pak Komang Sayan",
+      "phone": "-",
+      "address": "-",
+      "balance": 7275000
+    },
+    {
+      "name": "Ajik Alit Tebongkang",
+      "phone": "-",
+      "address": "-",
+      "balance": 7250000
+    },
+    {
+      "name": "Pak Ngurah Lotunduh",
+      "phone": "-",
+      "address": "-",
+      "balance": 7230000
+    },
+    {
+      "name": "Buk Bintang",
+      "phone": "-",
+      "address": "-",
+      "balance": 7184000
+    },
+    {
+      "name": "Pak Eka Apuh",
+      "phone": "-",
+      "address": "-",
+      "balance": 7160000
+    },
+    {
+      "name": "Pak Komang Nyuh Kuning",
+      "phone": "-",
+      "address": "-",
+      "balance": 7125000
+    },
+    {
+      "name": "Sang Nyoman Tebongkang",
+      "phone": "-",
+      "address": "-",
+      "balance": 6915000
+    },
+    {
+      "name": "Pak Dewanata",
+      "phone": "-",
+      "address": "-",
+      "balance": 6750000
+    },
+    {
+      "name": "Komang Abiansemal",
+      "phone": "-",
+      "address": "-",
+      "balance": 6550000
+    },
+    {
+      "name": "Pak Suasta",
+      "phone": "-",
+      "address": "-",
+      "balance": 6275000
+    },
+    {
+      "name": "Villa Richard",
+      "phone": "-",
+      "address": "-",
+      "balance": 6250000
+    },
+    {
+      "name": "Villa PAyogan",
+      "phone": "-",
+      "address": "-",
+      "balance": 6250000
+    },
+    {
+      "name": "Pak Yanto",
+      "phone": "-",
+      "address": "-",
+      "balance": 6250000
+    },
+    {
+      "name": "Kingkong",
+      "phone": "-",
+      "address": "-",
+      "balance": 6000000
+    },
+    {
+      "name": "Tude Kelusa Payangan",
+      "phone": "-",
+      "address": "-",
+      "balance": 5950000
+    },
+    {
+      "name": "Ajik Sebatu",
+      "phone": "-",
+      "address": "-",
+      "balance": 5900000
+    },
+    {
+      "name": "Pak Komang Andong",
+      "phone": "-",
+      "address": "-",
+      "balance": 5880000
+    },
+    {
+      "name": "Pak No Keliki",
+      "phone": "-",
+      "address": "-",
+      "balance": 5850000
+    },
+    {
+      "name": "Jik Alit",
+      "phone": "-",
+      "address": "-",
+      "balance": 5850000
+    },
+    {
+      "name": "Pak Grandong",
+      "phone": "-",
+      "address": "-",
+      "balance": 5700000
+    },
+    {
+      "name": "Gapura Bali",
+      "phone": "-",
+      "address": "-",
+      "balance": 5595000
+    },
+    {
+      "name": "Pak Komang Tampaksiring",
+      "phone": "-",
+      "address": "-",
+      "balance": 5485000
+    },
+    {
+      "name": "Dekpar",
+      "phone": "-",
+      "address": "-",
+      "balance": 5475000
+    },
+    {
+      "name": "Mas Rusli",
+      "phone": "-",
+      "address": "-",
+      "balance": 5440000
+    },
+    {
+      "name": "North Bali Villa",
+      "phone": "-",
+      "address": "-",
+      "balance": 5400000
+    },
+    {
+      "name": "Edy Tigor",
+      "phone": "-",
+      "address": "-",
+      "balance": 5400000
+    },
+    {
+      "name": "Pak Agus Mas",
+      "phone": "-",
+      "address": "-",
+      "balance": 5340000
+    },
+    {
+      "name": "Udiana Resort Nagi",
+      "phone": "-",
+      "address": "-",
+      "balance": 5280000
+    },
+    {
+      "name": "PAK Hallo",
+      "phone": "-",
+      "address": "-",
+      "balance": 5200000
+    },
+    {
+      "name": "Ibu Sereti",
+      "phone": "-",
+      "address": "-",
+      "balance": 5130000
+    },
+    {
+      "name": "Pak Suja",
+      "phone": "-",
+      "address": "-",
+      "balance": 5022000
+    },
+    {
+      "name": "Ajik Sebali",
+      "phone": "-",
+      "address": "-",
+      "balance": 4915000
+    },
+    {
+      "name": "Pak Luis",
+      "phone": "-",
+      "address": "-",
+      "balance": 4875000
+    },
+    {
+      "name": "Mas Waris Petulu",
+      "phone": "-",
+      "address": "-",
+      "balance": 4870000
+    },
+    {
+      "name": "Pak Nardi Mas",
+      "phone": "-",
+      "address": "-",
+      "balance": 4800000
+    },
+    {
+      "name": "Villa Sri",
+      "phone": "-",
+      "address": "-",
+      "balance": 4750000
+    },
+    {
+      "name": "Wawan Penestanan",
+      "phone": "-",
+      "address": "-",
+      "balance": 4745000
+    },
+    {
+      "name": "Serat Jati",
+      "phone": "-",
+      "address": "-",
+      "balance": 4700000
+    },
+    {
+      "name": "Pura Desa Bunutin",
+      "phone": "-",
+      "address": "-",
+      "balance": 4675000
+    },
+    {
+      "name": "Diana Nyuh Kuning",
+      "phone": "-",
+      "address": "-",
+      "balance": 4640000
+    },
+    {
+      "name": "dekna",
+      "phone": "-",
+      "address": "-",
+      "balance": 4595000
+    },
+    {
+      "name": "Made Warna Penestanan",
+      "phone": "-",
+      "address": "-",
+      "balance": 4550000
+    },
+    {
+      "name": "Yuda MAhendra",
+      "phone": "-",
+      "address": "-",
+      "balance": 4500000
+    },
+    {
+      "name": "Pak Arik Katik Lantang",
+      "phone": "-",
+      "address": "-",
+      "balance": 4335000
+    },
+    {
+      "name": "Diana Moksa",
+      "phone": "-",
+      "address": "-",
+      "balance": 4000000
+    },
+    {
+      "name": "Ibuk Yunu Ubud",
+      "phone": "-",
+      "address": "-",
+      "balance": 3870000
+    },
+    {
+      "name": "Pak Jawuwiarta Junjungan",
+      "phone": "-",
+      "address": "-",
+      "balance": 3770000
+    },
+    {
+      "name": "Eka Wood",
+      "phone": "-",
+      "address": "-",
+      "balance": 3750000
+    },
+    {
+      "name": "Gung Raka Tanggayuda",
+      "phone": "-",
+      "address": "-",
+      "balance": 3745000
+    },
+    {
+      "name": "Vice roy ( Dekna )",
+      "phone": "-",
+      "address": "-",
+      "balance": 3710000
+    },
+    {
+      "name": "Fahmi",
+      "phone": "-",
+      "address": "-",
+      "balance": 3700000
+    },
+    {
+      "name": "Suara Alam",
+      "phone": "-",
+      "address": "-",
+      "balance": 3480000
+    },
+    {
+      "name": "Tresna Pejeng",
+      "phone": "-",
+      "address": "-",
+      "balance": 3475000
+    },
+    {
+      "name": "Bucu View Pejeng",
+      "phone": "-",
+      "address": "-",
+      "balance": 3450000
+    },
+    {
+      "name": "Senanda Café",
+      "phone": "-",
+      "address": "-",
+      "balance": 3375000
+    },
+    {
+      "name": "Gentong Champ",
+      "phone": "-",
+      "address": "-",
+      "balance": 3360000
+    },
+    {
+      "name": "PAk Putu Tebongkang",
+      "phone": "-",
+      "address": "-",
+      "balance": 3300000
+    },
+    {
+      "name": "Pak Parswa Payangan",
+      "phone": "-",
+      "address": "-",
+      "balance": 3212500
+    },
+    {
+      "name": "Villa Aman",
+      "phone": "-",
+      "address": "-",
+      "balance": 3125000
+    },
+    {
+      "name": "winakara",
+      "phone": "-",
+      "address": "-",
+      "balance": 3125000
+    },
+    {
+      "name": "Mas Waris",
+      "phone": "-",
+      "address": "-",
+      "balance": 3100000
+    },
+    {
+      "name": "Pak Virda",
+      "phone": "-",
+      "address": "-",
+      "balance": 3100000
+    },
+    {
+      "name": "PAk Ngurah",
+      "phone": "-",
+      "address": "-",
+      "balance": 3035000
+    },
+    {
+      "name": "Takim",
+      "phone": "-",
+      "address": "-",
+      "balance": 3010000
+    },
+    {
+      "name": "Pak Sandi Katik Lantang",
+      "phone": "-",
+      "address": "-",
+      "balance": 2940000
+    },
+    {
+      "name": "Pak Dewa Demayu",
+      "phone": "-",
+      "address": "-",
+      "balance": 2860000
+    },
+    {
+      "name": "Star Yona",
+      "phone": "-",
+      "address": "-",
+      "balance": 2600000
+    },
+    {
+      "name": "Pak Udaya",
+      "phone": "-",
+      "address": "-",
+      "balance": 2450000
+    },
+    {
+      "name": "Hallo",
+      "phone": "-",
+      "address": "-",
+      "balance": 2315000
+    },
+    {
+      "name": "Villa Mas Amber",
+      "phone": "-",
+      "address": "-",
+      "balance": 2290000
+    },
+    {
+      "name": "Pak Kadek Proyek Mas",
+      "phone": "-",
+      "address": "-",
+      "balance": 2240000
+    },
+    {
+      "name": "Pak Kenza Kintamani",
+      "phone": "-",
+      "address": "-",
+      "balance": 1940000
+    },
+    {
+      "name": "Pak Injin Kutuh",
+      "phone": "-",
+      "address": "-",
+      "balance": 1937000
+    },
+    {
+      "name": "Pak Dewa Ubung",
+      "phone": "-",
+      "address": "-",
+      "balance": 1870000
+    },
+    {
+      "name": "Pak Dewa Junjungan",
+      "phone": "-",
+      "address": "-",
+      "balance": 1700000
+    },
+    {
+      "name": "Harris",
+      "phone": "-",
+      "address": "-",
+      "balance": 1625000
+    },
+    {
+      "name": "Ibu Olga Ubud",
+      "phone": "-",
+      "address": "-",
+      "balance": 1600000
+    },
+    {
+      "name": "Pak Kemenuh",
+      "phone": "-",
+      "address": "-",
+      "balance": 1495000
+    },
+    {
+      "name": "Putu",
+      "phone": "-",
+      "address": "-",
+      "balance": 1455000
+    },
+    {
+      "name": "Tresna Kepakisan",
+      "phone": "-",
+      "address": "-",
+      "balance": 1350000
+    },
+    {
+      "name": "Mas Sam",
+      "phone": "-",
+      "address": "-",
+      "balance": 1280000
+    },
+    {
+      "name": "Pak Ambara",
+      "phone": "-",
+      "address": "-",
+      "balance": 1240000
+    },
+    {
+      "name": "Pak Alit Bongkasa",
+      "phone": "-",
+      "address": "-",
+      "balance": 1170000
+    },
+    {
+      "name": "Pak Dana",
+      "phone": "-",
+      "address": "-",
+      "balance": 1145000
+    },
+    {
+      "name": "Mas waris",
+      "phone": "-",
+      "address": "-",
+      "balance": 1080000
+    },
+    {
+      "name": "Mang Trio",
+      "phone": "-",
+      "address": "-",
+      "balance": 1000000
+    },
+    {
+      "name": "Mas Takim",
+      "phone": "-",
+      "address": "-",
+      "balance": 1000000
+    },
+    {
+      "name": "Villa Tenang",
+      "phone": "-",
+      "address": "-",
+      "balance": 920000
+    },
+    {
+      "name": "Pak Enggal",
+      "phone": "-",
+      "address": "-",
+      "balance": 432000
+    },
+    {
+      "name": "Raka",
+      "phone": "-",
+      "address": "-",
+      "balance": 360000
+    },
+    {
+      "name": "Pak Agung Janata",
+      "phone": "-",
+      "address": "-",
+      "balance": 240000
+    }
+  ],
+  "suppliers": [
+    {
+      "name": "Rully",
+      "phone": "-",
+      "address": "Supplier Batu Alam",
+      "balance": 0
+    },
+    {
+      "name": "Junaedi",
+      "phone": "-",
+      "address": "Supplier Batu Alam",
+      "balance": 0
+    },
+    {
+      "name": "Ramdan",
+      "phone": "-",
+      "address": "Supplier Batu Alam",
+      "balance": 0
+    },
+    {
+      "name": "Suwarno",
+      "phone": "-",
+      "address": "Supplier Batu Alam",
+      "balance": 0
+    },
+    {
+      "name": "Umar",
+      "phone": "-",
+      "address": "Supplier Batu Alam",
+      "balance": 0
+    },
+    {
+      "name": "Harun",
+      "phone": "-",
+      "address": "Supplier Batu Alam",
+      "balance": 0
+    },
+    {
+      "name": "Fian",
+      "phone": "-",
+      "address": "Supplier Batu Alam",
+      "balance": 0
+    },
+    {
+      "name": "Sofyan",
+      "phone": "-",
+      "address": "Supplier Batu Alam",
+      "balance": 0
+    },
+    {
+      "name": "Cahaya Stone",
+      "phone": "-",
+      "address": "Supplier Batu Alam",
+      "balance": 0
+    },
+    {
+      "name": "Mas Agus",
+      "phone": "-",
+      "address": "Supplier Batu Alam",
+      "balance": 0
+    }
+  ],
+  "transactions": [
+    {
+      "date": "2025-09-02 00:00:00",
+      "item": "candi 20x40x2",
+      "qty": 50.0,
+      "hpp": 91000.0,
+      "price": 100000.0,
+      "customer": "Alas Harum",
+      "status": "BON",
+      "nominal": 5000000.0
+    },
+    {
+      "date": "2025-09-02 00:00:00",
+      "item": "andesit 20x40x1,5 bakar",
+      "qty": 30.0,
+      "hpp": 120000.0,
+      "price": 130000.0,
+      "customer": "Alas Harum",
+      "status": "BON",
+      "nominal": 3900000.0
+    },
+    {
+      "date": "2025-09-03 00:00:00",
+      "item": "candi 30x30x3",
+      "qty": 1.4545454545454546,
+      "hpp": 190000.0,
+      "price": 110000.0,
+      "customer": "Wayan Erik",
+      "status": "BON",
+      "nominal": 160000.0
+    },
+    {
+      "date": "2025-09-03 00:00:00",
+      "item": "green sukabumi 20x20",
+      "qty": 3.2,
+      "hpp": 122000.0,
+      "price": 137500.0,
+      "customer": "Wayan Erik",
+      "status": "BON",
+      "nominal": 440000.0
+    },
+    {
+      "date": "2025-09-03 00:00:00",
+      "item": "putih tulang 30x60x5",
+      "qty": 5.0,
+      "hpp": 210000.0,
+      "price": 270000.0,
+      "customer": "Winakara",
+      "status": "BON",
+      "nominal": 1350000.0
+    },
+    {
+      "date": "2025-09-03 00:00:00",
+      "item": "putih tulang 30x60x3",
+      "qty": 10.0,
+      "hpp": 147000.0,
+      "price": 200000.0,
+      "customer": "Winakara",
+      "status": "BON",
+      "nominal": 2000000.0
+    },
+    {
+      "date": "2025-09-04 00:00:00",
+      "item": "marmo hitam",
+      "qty": 30.0,
+      "hpp": 115000.0,
+      "price": 120000.0,
+      "customer": "Toko Canggu",
+      "status": "BON",
+      "nominal": 3600000.0
+    },
+    {
+      "date": "2025-09-04 00:00:00",
+      "item": "andesit 30x30x1,5 bakar",
+      "qty": 60.0,
+      "hpp": 130000.0,
+      "price": 135000.0,
+      "customer": "Pak partading",
+      "status": "BON",
+      "nominal": 8100000.0
+    },
+    {
+      "date": "2025-09-04 00:00:00",
+      "item": "paras tulungagung 20x40x2",
+      "qty": 30.0,
+      "hpp": 105000.0,
+      "price": 130000.0,
+      "customer": "Sedana YAsa",
+      "status": "BON",
+      "nominal": 3900000.0
+    },
+    {
+      "date": "2025-09-06 00:00:00",
+      "item": "andesit 20x40x1,5 bakar",
+      "qty": 30.0,
+      "hpp": 120000.0,
+      "price": 125000.0,
+      "customer": "Pak Utek",
+      "status": "BON",
+      "nominal": 3750000.0
+    },
+    {
+      "date": "2025-09-08 00:00:00",
+      "item": "andesit 30x60x1,5 bakar",
+      "qty": 24.0,
+      "hpp": 135000.0,
+      "price": 145000.0,
+      "customer": "Wayan Erik",
+      "status": "BON",
+      "nominal": 3480000.0
+    },
+    {
+      "date": "2025-09-08 00:00:00",
+      "item": "green sukabumi 20x20",
+      "qty": 1.2,
+      "hpp": 122000.0,
+      "price": 137500.0,
+      "customer": "Wayan Erik",
+      "status": "BON",
+      "nominal": 165000.0
+    },
+    {
+      "date": "2025-09-11 00:00:00",
+      "item": "Green Sukabumi 10x20 ekspor",
+      "qty": 10.0,
+      "hpp": 170000.0,
+      "price": 190000.0,
+      "customer": "PAk Ngurah Tebongkang",
+      "status": "BON",
+      "nominal": 1900000.0
+    },
+    {
+      "date": "2025-09-11 00:00:00",
+      "item": "andesit 20x40x1,5 bakar",
+      "qty": 2.5,
+      "hpp": 120000.0,
+      "price": 132000.0,
+      "customer": "PAk Ngurah Tebongkang",
+      "status": "BON",
+      "nominal": 330000.0
+    },
+    {
+      "date": "2025-09-12 00:00:00",
+      "item": "andesit 30x60x1,5 bakar",
+      "qty": 25.0,
+      "hpp": 135000.0,
+      "price": 150000.0,
+      "customer": "Sanggra Loka Farm",
+      "status": "BON",
+      "nominal": 3750000.0
+    },
+    {
+      "date": "2025-09-12 00:00:00",
+      "item": "paras tulungagung 20x40x5",
+      "qty": 5.0,
+      "hpp": 180000.0,
+      "price": 220000.0,
+      "customer": "Toko Canggu",
+      "status": "BON",
+      "nominal": 1100000.0
+    },
+    {
+      "date": "2025-09-12 00:00:00",
+      "item": "andesit 30x40x1,5 bakar",
+      "qty": 3.0,
+      "hpp": 136000.0,
+      "price": 135000.0,
+      "customer": "Toko Canggu",
+      "status": "BON",
+      "nominal": 405000.0
+    },
+    {
+      "date": "2025-09-14 00:00:00",
+      "item": "andesit 30x60x1,5 bakar",
+      "qty": 25.0,
+      "hpp": 135000.0,
+      "price": 150000.0,
+      "customer": "Sanggra Loka Farm",
+      "status": "BON",
+      "nominal": 3750000.0
+    },
+    {
+      "date": "2025-09-14 00:00:00",
+      "item": "andesit 30x40x5 bakar",
+      "qty": 6.5,
+      "hpp": 345000.0,
+      "price": 360000.0,
+      "customer": "Ulit Pejeng",
+      "status": "BON",
+      "nominal": 2340000.0
+    },
+    {
+      "date": "2025-09-16 00:00:00",
+      "item": "andesit 20x40x1,5 bakar",
+      "qty": 45.0,
+      "hpp": 120000.0,
+      "price": 130000.0,
+      "customer": "Winakara",
+      "status": "BON",
+      "nominal": 5850000.0
+    },
+    {
+      "date": "2025-09-17 00:00:00",
+      "item": "paras tulungagung 20x40x5",
+      "qty": 5.0,
+      "hpp": 180000.0,
+      "price": 220000.0,
+      "customer": "Toko Canggu",
+      "status": "BON",
+      "nominal": 1100000.0
+    },
+    {
+      "date": "2025-09-19 00:00:00",
+      "item": "andesit 40x40x1,5 poles",
+      "qty": 20.0,
+      "hpp": 200000.0,
+      "price": 260000.0,
+      "customer": "Made Dita",
+      "status": "BON",
+      "nominal": 5200000.0
+    },
+    {
+      "date": "2025-09-19 00:00:00",
+      "item": "andesit 20x40x1,5 poles",
+      "qty": 15.0,
+      "hpp": 189000.0,
+      "price": 230000.0,
+      "customer": "Made Dita",
+      "status": "BON",
+      "nominal": 3450000.0
+    },
+    {
+      "date": "2025-09-19 00:00:00",
+      "item": "andesit 40x40x1,5 bakar",
+      "qty": 20.0,
+      "hpp": 136000.0,
+      "price": 145000.0,
+      "customer": "Made Dita",
+      "status": "BON",
+      "nominal": 2900000.0
+    },
+    {
+      "date": "2025-09-21 00:00:00",
+      "item": "Green Sukabumi 10x20 ekspor",
+      "qty": 40.0,
+      "hpp": 170000.0,
+      "price": 170000.0,
+      "customer": "Ulit Pejeng",
+      "status": "BON",
+      "nominal": 6800000.0
+    },
+    {
+      "date": "2025-09-23 00:00:00",
+      "item": "Batu Koral Hitam Sumbawa / Doff",
+      "qty": 30.0,
+      "hpp": 19000.0,
+      "price": 25000.0,
+      "customer": "Toko Canggu",
+      "status": "BON",
+      "nominal": 750000.0
+    },
+    {
+      "date": "2025-09-23 00:00:00",
+      "item": "RTM Palem Random",
+      "qty": 55.0,
+      "hpp": 80000.0,
+      "price": 120000.0,
+      "customer": "Edo Pratama",
+      "status": "BON",
+      "nominal": 6600000.0
+    },
+    {
+      "date": "2025-09-23 00:00:00",
+      "item": "candi 20x40x2",
+      "qty": 3.0,
+      "hpp": 91000.0,
+      "price": 95000.0,
+      "customer": "Edo Pratama",
+      "status": "BON",
+      "nominal": 285000.0
+    },
+    {
+      "date": "2025-09-23 00:00:00",
+      "item": "candi 30x30x3",
+      "qty": 10.0,
+      "hpp": 190000.0,
+      "price": 180000.0,
+      "customer": "Edo Pratama",
+      "status": "BON",
+      "nominal": 1800000.0
+    },
+    {
+      "date": "2025-09-23 00:00:00",
+      "item": "marmo hijau kolam",
+      "qty": 30.0,
+      "hpp": 90000.0,
+      "price": 100000.0,
+      "customer": "Edo Pratama",
+      "status": "BON",
+      "nominal": 3000000.0
+    },
+    {
+      "date": "2025-09-24 00:00:00",
+      "item": "kulitan paras 20x40",
+      "qty": 20.0,
+      "hpp": 105000.0,
+      "price": 145000.0,
+      "customer": "PAk Ngurah Tebongkang",
+      "status": "BON",
+      "nominal": 2900000.0
+    },
+    {
+      "date": "2025-09-24 00:00:00",
+      "item": "Batu Koral Hitam Sumbawa / Doff",
+      "qty": 10.0,
+      "hpp": 19000.0,
+      "price": 25000.0,
+      "customer": "Toko Canggu",
+      "status": "BON",
+      "nominal": 0
+    },
+    {
+      "date": "2025-09-24 00:00:00",
+      "item": "andesit 20x40x1,5 poles",
+      "qty": 75.0,
+      "hpp": 189000.0,
+      "price": 230000.0,
+      "customer": "Gung Kupit",
+      "status": "BON",
+      "nominal": 17250000.0
+    },
+    {
+      "date": "2025-09-25 00:00:00",
+      "item": "candi 30x30x2",
+      "qty": 30.0,
+      "hpp": 95000.0,
+      "price": 115000.0,
+      "customer": "Sanggra Loka Farm",
+      "status": "BON",
+      "nominal": 3450000.0
+    },
+    {
+      "date": "2025-09-25 00:00:00",
+      "item": "paras tulungagung 20x40x2",
+      "qty": 15.0,
+      "hpp": 105000.0,
+      "price": 140000.0,
+      "customer": "PAk Ngurah Tebongkang",
+      "status": "BON",
+      "nominal": 2100000.0
+    },
+    {
+      "date": "2025-09-25 00:00:00",
+      "item": "ganggong 10 candi",
+      "qty": 100.0,
+      "hpp": 9000.0,
+      "price": 12000.0,
+      "customer": "PAk Ngurah Tebongkang",
+      "status": "BON",
+      "nominal": 1200000.0
+    },
+    {
+      "date": "2025-09-25 00:00:00",
+      "item": "ganggong 4,5 candi",
+      "qty": 100.0,
+      "hpp": 5300.0,
+      "price": 8000.0,
+      "customer": "PAk Ngurah Tebongkang",
+      "status": "BON",
+      "nominal": 800000.0
+    },
+    {
+      "date": "2025-09-25 00:00:00",
+      "item": "ganggong 4,5 candi",
+      "qty": 100.0,
+      "hpp": 5300.0,
+      "price": 7000.0,
+      "customer": "Pakyan Darsa",
+      "status": "BON",
+      "nominal": 700000.0
+    },
+    {
+      "date": "2025-09-25 00:00:00",
+      "item": "andesit 30x60x1,5 bakar",
+      "qty": 1.0909090909090908,
+      "hpp": 135000.0,
+      "price": 148500.0,
+      "customer": "Pakyan Darsa",
+      "status": "BON",
+      "nominal": 162000.0
+    },
+    {
+      "date": "2025-09-26 00:00:00",
+      "item": "candi 20x40x5",
+      "qty": 4.166666666666667,
+      "hpp": 223000.0,
+      "price": 360000.0,
+      "customer": "Vice Roy ( Dekna )",
+      "status": "BON",
+      "nominal": 1500000.0
+    },
+    {
+      "date": "2025-09-26 00:00:00",
+      "item": "serat jati 20x40x2",
+      "qty": 25.0,
+      "hpp": 88000.0,
+      "price": 160000.0,
+      "customer": "Vice Roy ( Dekna )",
+      "status": "BON",
+      "nominal": 4000000.0
+    },
+    {
+      "date": "2025-09-27 00:00:00",
+      "item": "putih tulang 20x40x2",
+      "qty": 50.0,
+      "hpp": 85000.0,
+      "price": 95000.0,
+      "customer": "Sedana YAsa",
+      "status": "BON",
+      "nominal": 4750000.0
+    },
+    {
+      "date": "2025-09-27 00:00:00",
+      "item": "candi 30x30x2",
+      "qty": 12.0,
+      "hpp": 95000.0,
+      "price": 110000.0,
+      "customer": "Sedana YAsa",
+      "status": "BON",
+      "nominal": 1320000.0
+    },
+    {
+      "date": "2025-09-27 00:00:00",
+      "item": "andesit 20x40x1,5 bakar",
+      "qty": 10.0,
+      "hpp": 120000.0,
+      "price": 125000.0,
+      "customer": "Dek Mus",
+      "status": "BON",
+      "nominal": 1250000.0
+    },
+    {
+      "date": "2025-09-27 00:00:00",
+      "item": "Green Sukabumi 10x20 ekspor",
+      "qty": 6.0,
+      "hpp": 170000.0,
+      "price": 190000.0,
+      "customer": "PAk Ngurah Tebongkang",
+      "status": "BON",
+      "nominal": 1140000.0
+    },
+    {
+      "date": "2025-09-28 00:00:00",
+      "item": "kulitan paras 20x40",
+      "qty": 20.0,
+      "hpp": 105000.0,
+      "price": 145000.0,
+      "customer": "PAk Ngurah Tebongkang",
+      "status": "BON",
+      "nominal": 2900000.0
+    },
+    {
+      "date": "2025-09-28 00:00:00",
+      "item": "ganggong 10 candi",
+      "qty": 100.0,
+      "hpp": 9000.0,
+      "price": 12000.0,
+      "customer": "PAk Ngurah Tebongkang",
+      "status": "BON",
+      "nominal": 1200000.0
+    },
+    {
+      "date": "2025-09-28 00:00:00",
+      "item": "ganggong 4,5 candi",
+      "qty": 100.0,
+      "hpp": 5300.0,
+      "price": 8000.0,
+      "customer": "PAk Ngurah Tebongkang",
+      "status": "BON",
+      "nominal": 800000.0
+    },
+    {
+      "date": "2025-10-01 00:00:00",
+      "item": "candi 30x30x2",
+      "qty": 25.0,
+      "hpp": 95000.0,
+      "price": 115000.0,
+      "customer": "Sanggra Loka Farm",
+      "status": "BON",
+      "nominal": 2875000.0
+    },
+    {
+      "date": "2025-10-01 00:00:00",
+      "item": "andesit 10x10x1,5 bakar",
+      "qty": 25.0,
+      "hpp": 95000.0,
+      "price": 95000.0,
+      "customer": "Toko Canggu",
+      "status": "BON",
+      "nominal": 2375000.0
+    },
+    {
+      "date": "2025-10-03 00:00:00",
+      "item": "andesit 30x30x1,5 bakar",
+      "qty": 8.0,
+      "hpp": 130000.0,
+      "price": 135000.0,
+      "customer": "Ajik Gita",
+      "status": "BON",
+      "nominal": 1080000.0
+    },
+    {
+      "date": "2025-10-03 00:00:00",
+      "item": "bali green 20x40x2",
+      "qty": 10.0,
+      "hpp": 82000.0,
+      "price": 90000.0,
+      "customer": "Ajik Gita",
+      "status": "BON",
+      "nominal": 900000.0
+    },
+    {
+      "date": "2025-10-03 00:00:00",
+      "item": "candi 20x40x2",
+      "qty": 18.0,
+      "hpp": 91000.0,
+      "price": 95000.0,
+      "customer": "Ajik Gita",
+      "status": "BON",
+      "nominal": 1710000.0
+    },
+    {
+      "date": "2025-10-03 00:00:00",
+      "item": "candi 20x40x5",
+      "qty": 7.0,
+      "hpp": 223000.0,
+      "price": 240000.0,
+      "customer": "Ajik Gita",
+      "status": "BON",
+      "nominal": 1680000.0
+    },
+    {
+      "date": "2025-10-03 00:00:00",
+      "item": "candi 20x40x3",
+      "qty": 3.0,
+      "hpp": 150000.0,
+      "price": 160000.0,
+      "customer": "Ajik Gita",
+      "status": "BON",
+      "nominal": 480000.0
+    },
+    {
+      "date": "2025-10-03 00:00:00",
+      "item": "Batu Kolam Putih ( Tumble )",
+      "qty": 30.0,
+      "hpp": 140000.0,
+      "price": 180000.0,
+      "customer": "Dek Mus",
+      "status": "BON",
+      "nominal": 5400000.0
+    },
+    {
+      "date": "2025-10-03 00:00:00",
+      "item": "andesit 30x40x5 bakar",
+      "qty": 5.0,
+      "hpp": 345000.0,
+      "price": 400000.0,
+      "customer": "Dek Mus",
+      "status": "BON",
+      "nominal": 2000000.0
+    },
+    {
+      "date": "2025-10-03 00:00:00",
+      "item": "andesit 20x40x1,5 bakar",
+      "qty": 50.0,
+      "hpp": 120000.0,
+      "price": 125000.0,
+      "customer": "Pak Yanto",
+      "status": "BON",
+      "nominal": 6250000.0
+    },
+    {
+      "date": "2025-10-03 00:00:00",
+      "item": "green sukabumi 15x15",
+      "qty": 50.0,
+      "hpp": 108000.0,
+      "price": 125000.0,
+      "customer": "Sanggra Loka Farm",
+      "status": "BON",
+      "nominal": 6250000.0
+    },
+    {
+      "date": "2025-10-04 00:00:00",
+      "item": "candi 40x40x3",
+      "qty": 2.0,
+      "hpp": 175000.0,
+      "price": 180000.0,
+      "customer": "Toko Canggu",
+      "status": "BON",
+      "nominal": 360000.0
+    },
+    {
+      "date": "2025-10-04 00:00:00",
+      "item": "candi 20x40x3",
+      "qty": 15.0,
+      "hpp": 150000.0,
+      "price": 150000.0,
+      "customer": "Toko Canggu",
+      "status": "BON",
+      "nominal": 2250000.0
+    },
+    {
+      "date": "2025-10-04 00:00:00",
+      "item": "andesit 30x30x5 bakar",
+      "qty": 4.0,
+      "hpp": 330000.0,
+      "price": 360000.0,
+      "customer": "Ulit Pejeng",
+      "status": "BON",
+      "nominal": 1440000.0
+    },
+    {
+      "date": "2025-10-05 00:00:00",
+      "item": "marmo trotol",
+      "qty": 8.0,
+      "hpp": 120000.0,
+      "price": 125000.0,
+      "customer": "Ulit Pejeng",
+      "status": "BON",
+      "nominal": 1000000.0
+    },
+    {
+      "date": "2025-10-06 00:00:00",
+      "item": "serat jati 20x40x2",
+      "qty": 25.0,
+      "hpp": 88000.0,
+      "price": 160000.0,
+      "customer": "Serat Jati",
+      "status": "BON",
+      "nominal": 4000000.0
+    },
+    {
+      "date": "2025-10-06 00:00:00",
+      "item": "putih tulang 20x40x2",
+      "qty": 5.0,
+      "hpp": 85000.0,
+      "price": 140000.0,
+      "customer": "Serat Jati",
+      "status": "BON",
+      "nominal": 700000.0
+    },
+    {
+      "date": "2025-10-06 00:00:00",
+      "item": "Green Sukabumi 10x20 ekspor",
+      "qty": 15.0,
+      "hpp": 170000.0,
+      "price": 190000.0,
+      "customer": "PAk Ngurah Tebongkang",
+      "status": "BON",
+      "nominal": 2850000.0
+    },
+    {
+      "date": "2025-10-06 00:00:00",
+      "item": "candi 20x40x2",
+      "qty": 25.0,
+      "hpp": 91000.0,
+      "price": 100000.0,
+      "customer": "Alas Harum",
+      "status": "BON",
+      "nominal": 2500000.0
+    },
+    {
+      "date": "2025-10-06 00:00:00",
+      "item": "andesit 20x40x1,5 bakar",
+      "qty": 25.0,
+      "hpp": 120000.0,
+      "price": 130000.0,
+      "customer": "Alas Harum",
+      "status": "BON",
+      "nominal": 3250000.0
+    },
+    {
+      "date": "2025-10-07 00:00:00",
+      "item": "Green Sukabumi 10x20 ekspor",
+      "qty": 50.0,
+      "hpp": 170000.0,
+      "price": 190000.0,
+      "customer": "PAk Ngurah Tebongkang",
+      "status": "BON",
+      "nominal": 9500000.0
+    },
+    {
+      "date": "2025-10-07 00:00:00",
+      "item": "andesit 30x30x5 bakar",
+      "qty": 11.0,
+      "hpp": 330000.0,
+      "price": 360000.0,
+      "customer": "Ulit Pejeng",
+      "status": "BON",
+      "nominal": 3960000.0
+    },
+    {
+      "date": "2025-10-07 00:00:00",
+      "item": "andesit 20x20x1,5 bakar",
+      "qty": 75.0,
+      "hpp": 111000.0,
+      "price": 115000.0,
+      "customer": "Gung Kupit",
+      "status": "BON",
+      "nominal": 8625000.0
+    },
+    {
+      "date": "2025-10-08 00:00:00",
+      "item": "templek jember kasar",
+      "qty": 10.0,
+      "hpp": 45000.0,
+      "price": 80000.0,
+      "customer": "Winakara",
+      "status": "BON",
+      "nominal": 800000.0
+    },
+    {
+      "date": "2025-10-08 00:00:00",
+      "item": "candi 30x40x3",
+      "qty": 10.0,
+      "hpp": 175000.0,
+      "price": 210000.0,
+      "customer": "Winakara",
+      "status": "BON",
+      "nominal": 2100000.0
+    },
+    {
+      "date": "2025-10-08 00:00:00",
+      "item": "candi 30x30x3",
+      "qty": 15.0,
+      "hpp": 190000.0,
+      "price": 185000.0,
+      "customer": "Winakara",
+      "status": "BON",
+      "nominal": 2775000.0
+    },
+    {
+      "date": "2025-10-08 00:00:00",
+      "item": "candi 20x40x3",
+      "qty": 10.0,
+      "hpp": 150000.0,
+      "price": 170000.0,
+      "customer": "Winakara",
+      "status": "BON",
+      "nominal": 1700000.0
+    },
+    {
+      "date": "2025-10-08 00:00:00",
+      "item": "candi 20x40x3",
+      "qty": 11.0,
+      "hpp": 150000.0,
+      "price": 150000.0,
+      "customer": "Toko Canggu",
+      "status": "BON",
+      "nominal": 1650000.0
+    },
+    {
+      "date": "2025-10-08 00:00:00",
+      "item": "Pacito Roso 20x40x2",
+      "qty": 1.0,
+      "hpp": 112000.0,
+      "price": 115000.0,
+      "customer": "Toko Canggu",
+      "status": "BON",
+      "nominal": 115000.0
+    },
+    {
+      "date": "2025-10-08 00:00:00",
+      "item": "andesit 20x40x1,5 bakar",
+      "qty": 5.5,
+      "hpp": 120000.0,
+      "price": 120000.0,
+      "customer": "Toko Canggu",
+      "status": "BON",
+      "nominal": 660000.0
+    },
+    {
+      "date": "2025-10-08 00:00:00",
+      "item": "marmo trotol",
+      "qty": 5.0,
+      "hpp": 120000.0,
+      "price": 135000.0,
+      "customer": "PAk Ngurah Tebongkang",
+      "status": "BON",
+      "nominal": 675000.0
+    },
+    {
+      "date": "2025-10-08 00:00:00",
+      "item": "batu koral putih m",
+      "qty": 125.0,
+      "hpp": 15000.0,
+      "price": 18000.0,
+      "customer": "Ulit Pejeng",
+      "status": "BON",
+      "nominal": 2250000.0
+    },
+    {
+      "date": "2025-10-09 00:00:00",
+      "item": "candi 30x30x2",
+      "qty": 50.0,
+      "hpp": 95000.0,
+      "price": 115000.0,
+      "customer": "Sanggra Loka Farm",
+      "status": "BON",
+      "nominal": 5750000.0
+    },
+    {
+      "date": "2025-10-09 00:00:00",
+      "item": "andesit 30x30x1,5 bakar",
+      "qty": 50.0,
+      "hpp": 130000.0,
+      "price": 140000.0,
+      "customer": "Sanggra Loka Farm",
+      "status": "BON",
+      "nominal": 7000000.0
+    },
+    {
+      "date": "2025-10-09 00:00:00",
+      "item": "paras tulungagung 20x40x2",
+      "qty": 25.0,
+      "hpp": 105000.0,
+      "price": 130000.0,
+      "customer": "Sedana YAsa",
+      "status": "BON",
+      "nominal": 3250000.0
+    },
+    {
+      "date": "2025-10-09 00:00:00",
+      "item": "putih tulang 20x40x2",
+      "qty": 100.0,
+      "hpp": 85000.0,
+      "price": 95000.0,
+      "customer": "Sedana YAsa",
+      "status": "BON",
+      "nominal": 9500000.0
+    },
+    {
+      "date": "2025-10-09 00:00:00",
+      "item": "candi 30x40x5",
+      "qty": 12.5,
+      "hpp": 235000.0,
+      "price": 256000.0,
+      "customer": "Pak Utek",
+      "status": "BON",
+      "nominal": 3200000.0
+    },
+    {
+      "date": "2025-10-10 00:00:00",
+      "item": "putih tulang 30x30x5",
+      "qty": 7.2727272727272725,
+      "hpp": 200000.0,
+      "price": 242000.0,
+      "customer": "PAk Ngurah Tebongkang",
+      "status": "BON",
+      "nominal": 1760000.0
+    },
+    {
+      "date": "2025-10-10 00:00:00",
+      "item": "marmo trotol",
+      "qty": 16.0,
+      "hpp": 120000.0,
+      "price": 135000.0,
+      "customer": "PAk Ngurah Tebongkang",
+      "status": "BON",
+      "nominal": 2160000.0
+    },
+    {
+      "date": "2025-10-11 00:00:00",
+      "item": "andesit 20x40x3 bakar",
+      "qty": 8.0,
+      "hpp": 235000.0,
+      "price": 250000.0,
+      "customer": "Ulit Pejeng",
+      "status": "BON",
+      "nominal": 2000000.0
+    },
+    {
+      "date": "2025-10-11 00:00:00",
+      "item": "andesit 20x40x3 bakar",
+      "qty": 4.166666666666667,
+      "hpp": 235000.0,
+      "price": 249600.0,
+      "customer": "Ulit Pejeng",
+      "status": "BON",
+      "nominal": 1040000.0000000001
+    },
+    {
+      "date": "2025-10-11 00:00:00",
+      "item": "andesit 30x60x3 bakar",
+      "qty": 6.0,
+      "hpp": 245000.0,
+      "price": 255000.0,
+      "customer": "Ulit Pejeng",
+      "status": "BON",
+      "nominal": 1530000.0
+    },
+    {
+      "date": "2025-10-11 00:00:00",
+      "item": "neon candi",
+      "qty": 12.0,
+      "hpp": 12000.0,
+      "price": 12000.0,
+      "customer": "Ulit Pejeng",
+      "status": "BON",
+      "nominal": 144000.0
+    },
+    {
+      "date": "2025-10-12 00:00:00",
+      "item": "candi 20x40x2",
+      "qty": 3.0,
+      "hpp": 91000.0,
+      "price": 95000.0,
+      "customer": "Pak Utek",
+      "status": "BON",
+      "nominal": 285000.0
+    },
+    {
+      "date": "2025-10-12 00:00:00",
+      "item": "candi 30x30x5",
+      "qty": 31.0,
+      "hpp": 225000.0,
+      "price": 250000.0,
+      "customer": "Sanggra Loka Farm",
+      "status": "BON",
+      "nominal": 7750000.0
+    },
+    {
+      "date": "2025-10-12 00:00:00",
+      "item": "candi 30x30x3",
+      "qty": 38.0,
+      "hpp": 190000.0,
+      "price": 185000.0,
+      "customer": "Sanggra Loka Farm",
+      "status": "BON",
+      "nominal": 7030000.0
+    },
+    {
+      "date": "2025-10-13 00:00:00",
+      "item": "Green Sukabumi 10x20 ekspor",
+      "qty": 9.0,
+      "hpp": 170000.0,
+      "price": 190000.0,
+      "customer": "PAk Ngurah Tebongkang",
+      "status": "BON",
+      "nominal": 1710000.0
+    },
+    {
+      "date": "2025-10-13 00:00:00",
+      "item": "marmo hijau kolam",
+      "qty": 15.0,
+      "hpp": 90000.0,
+      "price": 100000.0,
+      "customer": "PAk Ngurah Tebongkang",
+      "status": "BON",
+      "nominal": 1500000.0
+    },
+    {
+      "date": "2025-10-13 00:00:00",
+      "item": "andesit 30x60x3 bakar",
+      "qty": 3.6363636363636362,
+      "hpp": 245000.0,
+      "price": 264000.0,
+      "customer": "Ulit Pejeng",
+      "status": "BON",
+      "nominal": 960000.0
+    },
+    {
+      "date": "2025-10-13 00:00:00",
+      "item": "templek jember kasar",
+      "qty": 20.0,
+      "hpp": 45000.0,
+      "price": 80000.0,
+      "customer": "Winakara",
+      "status": "BON",
+      "nominal": 1600000.0
+    },
+    {
+      "date": "2025-10-13 00:00:00",
+      "item": "green sukabumi 10x20",
+      "qty": 70.0,
+      "hpp": 105000.0,
+      "price": 110000.0,
+      "customer": "Pak Dana",
+      "status": "BON",
+      "nominal": 7700000.0
+    },
+    {
+      "date": "2025-10-13 00:00:00",
+      "item": "putih tulang 20x40x2",
+      "qty": 10.0,
+      "hpp": 85000.0,
+      "price": 95000.0,
+      "customer": "Sedana YAsa",
+      "status": "BON",
+      "nominal": 950000.0
+    },
+    {
+      "date": "2025-10-14 00:00:00",
+      "item": "andesit 30x30x1,5 bakar",
+      "qty": 50.0,
+      "hpp": 130000.0,
+      "price": 140000.0,
+      "customer": "Sanggra Loka Farm",
+      "status": "BON",
+      "nominal": 7000000.0
+    },
+    {
+      "date": "2025-10-14 00:00:00",
+      "item": "candi 30x30x5",
+      "qty": 20.0,
+      "hpp": 225000.0,
+      "price": 250000.0,
+      "customer": "Sanggra Loka Farm",
+      "status": "BON",
+      "nominal": 5000000.0
+    },
+    {
+      "date": "2025-10-14 00:00:00",
+      "item": "andesit 20x40x1,5 bakar",
+      "qty": 6.0,
+      "hpp": 120000.0,
+      "price": 130000.0,
+      "customer": "Winakara",
+      "status": "BON",
+      "nominal": 780000.0
+    },
+    {
+      "date": "2025-10-15 00:00:00",
+      "item": "andesit 30x60x5 bakar",
+      "qty": 2.727272727272727,
+      "hpp": 355000.0,
+      "price": 374000.0,
+      "customer": "Ulit Pejeng",
+      "status": "BON",
+      "nominal": 1019999.9999999999
+    },
+    {
+      "date": "2025-10-15 00:00:00",
+      "item": "andesit 30x30x3 bakar",
+      "qty": 10.0,
+      "hpp": 235000.0,
+      "price": 250000.0,
+      "customer": "Toko Canggu",
+      "status": "BON",
+      "nominal": 2500000.0
+    },
+    {
+      "date": "2025-10-15 00:00:00",
+      "item": "Pacito Roso 20x40x2",
+      "qty": 3.0,
+      "hpp": 112000.0,
+      "price": 115000.0,
+      "customer": "Toko Canggu",
+      "status": "BON",
+      "nominal": 345000.0
+    },
+    {
+      "date": "2025-10-15 00:00:00",
+      "item": "Batu Kolam Putih ( Tumble )",
+      "qty": 60.0,
+      "hpp": 140000.0,
+      "price": 175000.0,
+      "customer": "Dek Mus",
+      "status": "BON",
+      "nominal": 10500000.0
+    },
+    {
+      "date": "2025-10-15 00:00:00",
+      "item": "westafel hitam",
+      "qty": 2.0,
+      "hpp": 165000.0,
+      "price": 250000.0,
+      "customer": "Pakyan Darsa",
+      "status": "BON",
+      "nominal": 500000.0
+    },
+    {
+      "date": "2025-10-16 00:00:00",
+      "item": "andesit 30x30x3 bakar",
+      "qty": 4.7272727272727275,
+      "hpp": 235000.0,
+      "price": 264000.0,
+      "customer": "Toko Canggu",
+      "status": "BON",
+      "nominal": 1248000.0
+    },
+    {
+      "date": "2025-10-16 00:00:00",
+      "item": "putih tulang 20x40x3",
+      "qty": 2.5,
+      "hpp": 135000.0,
+      "price": 160000.0,
+      "customer": "PAk Ngurah Tebongkang",
+      "status": "BON",
+      "nominal": 400000.0
+    },
+    {
+      "date": "2025-10-17 00:00:00",
+      "item": "Green Sukabumi 10x20 ekspor",
+      "qty": 25.0,
+      "hpp": 170000.0,
+      "price": 190000.0,
+      "customer": "PAk Ngurah Tebongkang",
+      "status": "BON",
+      "nominal": 4750000.0
+    },
+    {
+      "date": "2025-10-17 00:00:00",
+      "item": "candi 30x60x5",
+      "qty": 6.0,
+      "hpp": 238000.0,
+      "price": 260000.0,
+      "customer": "Mas Wawan",
+      "status": "BON",
+      "nominal": 1560000.0
+    },
+    {
+      "date": "2025-10-17 00:00:00",
+      "item": "candi 30x40x3",
+      "qty": 2.0,
+      "hpp": 175000.0,
+      "price": 285000.0,
+      "customer": "Mas Wawan",
+      "status": "BON",
+      "nominal": 570000.0
+    },
+    {
+      "date": "2025-10-17 00:00:00",
+      "item": "candi 20x40x3",
+      "qty": 2.0,
+      "hpp": 150000.0,
+      "price": 160000.0,
+      "customer": "Mas Wawan",
+      "status": "BON",
+      "nominal": 320000.0
+    },
+    {
+      "date": "2025-10-17 00:00:00",
+      "item": "candi 20x40x2",
+      "qty": 6.0,
+      "hpp": 91000.0,
+      "price": 95000.0,
+      "customer": "Mas Wawan",
+      "status": "BON",
+      "nominal": 570000.0
+    },
+    {
+      "date": "2025-10-17 00:00:00",
+      "item": "putih tulang 20x40x2",
+      "qty": 5.0,
+      "hpp": 85000.0,
+      "price": 95000.0,
+      "customer": "Sedana YAsa",
+      "status": "BON",
+      "nominal": 475000.0
+    },
+    {
+      "date": "2025-10-18 00:00:00",
+      "item": "andesit 20x40x1,5 bakar",
+      "qty": 60.0,
+      "hpp": 120000.0,
+      "price": 120000.0,
+      "customer": "Ulit Pejeng",
+      "status": "BON",
+      "nominal": 7200000.0
+    },
+    {
+      "date": "2025-10-18 00:00:00",
+      "item": "green sukabumi 10x20",
+      "qty": 53.0,
+      "hpp": 105000.0,
+      "price": 115000.0,
+      "customer": "Winakara",
+      "status": "BON",
+      "nominal": 6095000.0
+    },
+    {
+      "date": "2025-10-18 00:00:00",
+      "item": "putih tulang 20x40x2",
+      "qty": 23.0,
+      "hpp": 85000.0,
+      "price": 110000.0,
+      "customer": "Winakara",
+      "status": "BON",
+      "nominal": 2530000.0
+    },
+    {
+      "date": "2025-10-18 00:00:00",
+      "item": "putih tulang 20x40x3",
+      "qty": 7.0,
+      "hpp": 135000.0,
+      "price": 170000.0,
+      "customer": "Winakara",
+      "status": "BON",
+      "nominal": 1190000.0
+    },
+    {
+      "date": "2025-10-18 00:00:00",
+      "item": "candi 30x40x5",
+      "qty": 6.875,
+      "hpp": 235000.0,
+      "price": 256000.0,
+      "customer": "Sedana YAsa",
+      "status": "BON",
+      "nominal": 1760000.0
+    },
+    {
+      "date": "2025-10-19 00:00:00",
+      "item": "andesit 20x40x1,5 bakar",
+      "qty": 29.0,
+      "hpp": 120000.0,
+      "price": 120000.0,
+      "customer": "Ulit Pejeng",
+      "status": "BON",
+      "nominal": 3480000.0
+    },
+    {
+      "date": "2025-10-19 00:00:00",
+      "item": "Andesit 10x10x3 RTA ( Cobal )",
+      "qty": 40.0,
+      "hpp": 165000.0,
+      "price": 200000.0,
+      "customer": "Winakara",
+      "status": "BON",
+      "nominal": 8000000.0
+    },
+    {
+      "date": "2025-10-20 00:00:00",
+      "item": "bali green 20x40x5",
+      "qty": 7.583333333333333,
+      "hpp": 198000.0,
+      "price": 240000.0,
+      "customer": "Ajik Gita",
+      "status": "BON",
+      "nominal": 1820000.0
+    },
+    {
+      "date": "2025-10-20 00:00:00",
+      "item": "Green Sukabumi 10x20 ekspor",
+      "qty": 40.0,
+      "hpp": 170000.0,
+      "price": 190000.0,
+      "customer": "Pak Gama",
+      "status": "BON",
+      "nominal": 7600000.0
+    },
+    {
+      "date": "2025-10-20 00:00:00",
+      "item": "andesit 30x40x5 bakar",
+      "qty": 6.0,
+      "hpp": 345000.0,
+      "price": 390000.0,
+      "customer": "Pak Gama",
+      "status": "BON",
+      "nominal": 2340000.0
+    },
+    {
+      "date": "2025-10-20 00:00:00",
+      "item": "andesit 20x40x1,5 bakar",
+      "qty": 37.0,
+      "hpp": 120000.0,
+      "price": 125000.0,
+      "customer": "Pak Gama",
+      "status": "BON",
+      "nominal": 4625000.0
+    },
+    {
+      "date": "2025-10-21 00:00:00",
+      "item": "candi 20x40x5",
+      "qty": 4.166666666666667,
+      "hpp": 223000.0,
+      "price": 240000.0,
+      "customer": "Pak Utek",
+      "status": "BON",
+      "nominal": 1000000.0000000001
+    },
+    {
+      "date": "2025-10-21 00:00:00",
+      "item": "candi 30x40x5",
+      "qty": 4.5,
+      "hpp": 235000.0,
+      "price": 256000.0,
+      "customer": "Pak Utek",
+      "status": "BON",
+      "nominal": 1152000.0
+    },
+    {
+      "date": "2025-10-21 00:00:00",
+      "item": "lis bunga besar",
+      "qty": 5.0,
+      "hpp": 36000.0,
+      "price": 30000.0,
+      "customer": "Ulit Pejeng",
+      "status": "BON",
+      "nominal": 150000.0
+    },
+    {
+      "date": "2025-10-22 00:00:00",
+      "item": "Green Sukabumi 10x20 ekspor",
+      "qty": 10.0,
+      "hpp": 170000.0,
+      "price": 190000.0,
+      "customer": "PAk Ngurah Tebongkang",
+      "status": "BON",
+      "nominal": 1900000.0
+    },
+    {
+      "date": "2025-10-23 00:00:00",
+      "item": "green sukabumi 15x15",
+      "qty": 25.0,
+      "hpp": 108000.0,
+      "price": 115000.0,
+      "customer": "Toko Canggu",
+      "status": "BON",
+      "nominal": 2875000.0
+    },
+    {
+      "date": "2025-10-25 00:00:00",
+      "item": "Batu Kolam Putih ( Tumble )",
+      "qty": 40.0,
+      "hpp": 140000.0,
+      "price": 175000.0,
+      "customer": "Dek Mus",
+      "status": "BON",
+      "nominal": 7000000.0
+    },
+    {
+      "date": "2025-10-26 00:00:00",
+      "item": "Paras tulungagung 20x40x2",
+      "qty": 10.0,
+      "hpp": 105000.0,
+      "price": 110000.0,
+      "customer": "Toko Canggu",
+      "status": "BON",
+      "nominal": 1100000.0
+    },
+    {
+      "date": "2025-10-27 00:00:00",
+      "item": "green sukabumi 15x15 ekspor",
+      "qty": 13.0,
+      "hpp": 180000.0,
+      "price": 180000.0,
+      "customer": "Ulit Pejeng",
+      "status": "BON",
+      "nominal": 2340000.0
+    },
+    {
+      "date": "2025-10-27 00:00:00",
+      "item": "candi 30x40x5",
+      "qty": 18.75,
+      "hpp": 235000.0,
+      "price": 256000.0,
+      "customer": "Pak Utek",
+      "status": "BON",
+      "nominal": 4800000.0
+    },
+    {
+      "date": "2025-10-27 00:00:00",
+      "item": "candi 20x40x2",
+      "qty": 3.0,
+      "hpp": 91000.0,
+      "price": 95000.0,
+      "customer": "Pak Utek",
+      "status": "BON",
+      "nominal": 285000.0
+    },
+    {
+      "date": "2025-10-27 00:00:00",
+      "item": "marmo hijau kolam",
+      "qty": 10.0,
+      "hpp": 90000.0,
+      "price": 100000.0,
+      "customer": "PAk Ngurah Tebongkang",
+      "status": "BON",
+      "nominal": 1000000.0
+    },
+    {
+      "date": "2025-10-27 00:00:00",
+      "item": "Green Sukabumi 10x20 ekspor",
+      "qty": 15.0,
+      "hpp": 170000.0,
+      "price": 190000.0,
+      "customer": "PAk Ngurah Tebongkang",
+      "status": "BON",
+      "nominal": 2850000.0
+    },
+    {
+      "date": "2025-10-27 00:00:00",
+      "item": "putih tulang 30x60x2",
+      "qty": 15.0,
+      "hpp": 85000.0,
+      "price": 130000.0,
+      "customer": "Winakara",
+      "status": "BON",
+      "nominal": 1950000.0
+    },
+    {
+      "date": "2025-10-28 00:00:00",
+      "item": "putih tulang 20x40x2",
+      "qty": 100.0,
+      "hpp": 85000.0,
+      "price": 95000.0,
+      "customer": "Pak Jimi",
+      "status": "BON",
+      "nominal": 9500000.0
+    },
+    {
+      "date": "2025-10-28 00:00:00",
+      "item": "andesit 30x60x1,5 bakar",
+      "qty": 40.0,
+      "hpp": 135000.0,
+      "price": 145000.0,
+      "customer": "Pak Jimi",
+      "status": "BON",
+      "nominal": 5800000.0
+    },
+    {
+      "date": "2025-10-28 00:00:00",
+      "item": "candi 20x40x2",
+      "qty": 50.0,
+      "hpp": 91000.0,
+      "price": 95000.0,
+      "customer": "Pak Jimi",
+      "status": "BON",
+      "nominal": 4750000.0
+    },
+    {
+      "date": "2025-10-28 00:00:00",
+      "item": "andesit 30x30x3 bakar",
+      "qty": 1.2727272727272727,
+      "hpp": 235000.0,
+      "price": 253000.0,
+      "customer": "Ulit Pejeng",
+      "status": "BON",
+      "nominal": 322000.0
+    },
+    {
+      "date": "2025-10-28 00:00:00",
+      "item": "marmo trotol",
+      "qty": 5.0,
+      "hpp": 120000.0,
+      "price": 125000.0,
+      "customer": "Toko Canggu",
+      "status": "BON",
+      "nominal": 625000.0
+    },
+    {
+      "date": "2025-10-28 00:00:00",
+      "item": "green sukabumi 15x15",
+      "qty": 50.0,
+      "hpp": 108000.0,
+      "price": 115000.0,
+      "customer": "Toko Canggu",
+      "status": "BON",
+      "nominal": 5750000.0
+    },
+    {
+      "date": "2025-10-28 00:00:00",
+      "item": "candi 20x30x3",
+      "qty": 6.0,
+      "hpp": 131000.0,
+      "price": 150000.0,
+      "customer": "Sedana YAsa",
+      "status": "BON",
+      "nominal": 900000.0
+    },
+    {
+      "date": "2025-10-29 00:00:00",
+      "item": "putih tulang 20x40x2",
+      "qty": 50.0,
+      "hpp": 85000.0,
+      "price": 100000.0,
+      "customer": "Sanggra Loka Farm",
+      "status": "BON",
+      "nominal": 5000000.0
+    },
+    {
+      "date": "2025-10-29 00:00:00",
+      "item": "andesit 30x30x1,5 bakar",
+      "qty": 75.0,
+      "hpp": 130000.0,
+      "price": 140000.0,
+      "customer": "Sanggra Loka Farm",
+      "status": "BON",
+      "nominal": 10500000.0
+    },
+    {
+      "date": "2025-10-30 00:00:00",
+      "item": "putih tulang 30x30x5",
+      "qty": 7.545454545454546,
+      "hpp": 200000.0,
+      "price": 242000.0,
+      "customer": "PAk Ngurah Tebongkang",
+      "status": "BON",
+      "nominal": 1826000.0
+    },
+    {
+      "date": "2025-10-31 00:00:00",
+      "item": "putih semi 20x40x2",
+      "qty": 9.0,
+      "hpp": 100000.0,
+      "price": 95000.0,
+      "customer": "Ulit Pejeng",
+      "status": "BON",
+      "nominal": 855000.0
+    },
+    {
+      "date": "2025-11-01 00:00:00",
+      "item": "Batu Kolam Putih ( Tumble )",
+      "qty": 50.0,
+      "hpp": 140000.0,
+      "price": 175000.0,
+      "customer": "Dek Mus",
+      "status": "BON",
+      "nominal": 8750000.0
+    },
+    {
+      "date": "2025-11-01 00:00:00",
+      "item": "andesit 30x30x5 bakar",
+      "qty": 4.2727272727272725,
+      "hpp": 330000.0,
+      "price": 363000.0,
+      "customer": "Ulit Pejeng",
+      "status": "BON",
+      "nominal": 1551000.0
+    },
+    {
+      "date": "2025-11-02 00:00:00",
+      "item": "andesit 40x40x1,5 bakar",
+      "qty": 33.333333333333336,
+      "hpp": 136000.0,
+      "price": 150000.0,
+      "customer": "Sanggra Loka Farm",
+      "status": "BON",
+      "nominal": 5000000.0
+    },
+    {
+      "date": "2025-11-02 00:00:00",
+      "item": "andesit 40x40x3 bakar",
+      "qty": 33.333333333333336,
+      "hpp": 262000.0,
+      "price": 318000.0,
+      "customer": "Sanggra Loka Farm",
+      "status": "BON",
+      "nominal": 10600000.0
+    },
+    {
+      "date": "2025-11-02 00:00:00",
+      "item": "andesit 30x40x3 bakar",
+      "qty": 10.0,
+      "hpp": 240000.0,
+      "price": 255000.0,
+      "customer": "Ulit Pejeng",
+      "status": "BON",
+      "nominal": 2550000.0
+    },
+    {
+      "date": "2025-11-02 00:00:00",
+      "item": "putih tulang 30x30x5",
+      "qty": 13.636363636363637,
+      "hpp": 200000.0,
+      "price": 231000.0,
+      "customer": "Dek Par",
+      "status": "CASH",
+      "nominal": 3150000.0
+    },
+    {
+      "date": "2025-11-02 00:00:00",
+      "item": "candi 30x60x5",
+      "qty": 7.2727272727272725,
+      "hpp": 238000.0,
+      "price": 275000.0,
+      "customer": "Dek Par",
+      "status": "CASH",
+      "nominal": 2000000.0
+    },
+    {
+      "date": "2025-11-02 00:00:00",
+      "item": "putih tulang 20x40x5",
+      "qty": 8.333333333333334,
+      "hpp": 191000.0,
+      "price": 228000.0,
+      "customer": "Dek Par",
+      "status": "CASH",
+      "nominal": 1900000.0000000002
+    },
+    {
+      "date": "2025-11-04 00:00:00",
+      "item": "putih tulang 30x60x2",
+      "qty": 25.0,
+      "hpp": 85000.0,
+      "price": 125000.0,
+      "customer": "Villa Aman",
+      "status": "BON",
+      "nominal": 3125000.0
+    },
+    {
+      "date": "2025-11-05 00:00:00",
+      "item": "andesit 40x60x3 bakar",
+      "qty": 10.0,
+      "hpp": 300000.0,
+      "price": 320000.0,
+      "customer": "Toko Canggu",
+      "status": "BON",
+      "nominal": 3200000.0
+    },
+    {
+      "date": "2025-11-06 00:00:00",
+      "item": "candi 40x40x5",
+      "qty": 2.1666666666666665,
+      "hpp": 238000.0,
+      "price": 270000.0,
+      "customer": "Winakara",
+      "status": "BON",
+      "nominal": 585000.0
+    },
+    {
+      "date": "2025-11-06 00:00:00",
+      "item": "Green Sukabumi 10x10 (kolam )",
+      "qty": 17.0,
+      "hpp": 95000.0,
+      "price": 110000.0,
+      "customer": "Winakara",
+      "status": "BON",
+      "nominal": 1870000.0
+    },
+    {
+      "date": "2025-11-07 00:00:00",
+      "item": "andesit 20x40x1,5 bakar",
+      "qty": 5.0,
+      "hpp": 120000.0,
+      "price": 125000.0,
+      "customer": "Pak Utek",
+      "status": "BON",
+      "nominal": 625000.0
+    },
+    {
+      "date": "2025-11-07 00:00:00",
+      "item": "Green Sukabumi 10x20 ekspor",
+      "qty": 25.0,
+      "hpp": 170000.0,
+      "price": 185000.0,
+      "customer": "Mas Wawan",
+      "status": "BON",
+      "nominal": 4625000.0
+    },
+    {
+      "date": "2025-11-08 00:00:00",
+      "item": "Green Sukabumi 10x20 ekspor",
+      "qty": 4.0,
+      "hpp": 170000.0,
+      "price": 190000.0,
+      "customer": "PAk Ngurah Tebongkang",
+      "status": "BON",
+      "nominal": 760000.0
+    },
+    {
+      "date": "2025-11-08 00:00:00",
+      "item": "Green Sukabumi 10x10 (kolam )",
+      "qty": 50.0,
+      "hpp": 95000.0,
+      "price": 110000.0,
+      "customer": "Sanggra Loka Farm",
+      "status": "BON",
+      "nominal": 5500000.0
+    },
+    {
+      "date": "2025-11-10 00:00:00",
+      "item": "andesit 20x40x1,5 bakar",
+      "qty": 13.0,
+      "hpp": 120000.0,
+      "price": 120000.0,
+      "customer": "Ulit Pejeng",
+      "status": "BON",
+      "nominal": 1560000.0
+    },
+    {
+      "date": "2025-11-12 00:00:00",
+      "item": "andesit 30x60x1,5 bakar",
+      "qty": 15.0,
+      "hpp": 135000.0,
+      "price": 145000.0,
+      "customer": "Pak Utek",
+      "status": "BON",
+      "nominal": 2175000.0
+    },
+    {
+      "date": "2025-11-12 00:00:00",
+      "item": "andesit 30x30x1,5 bakar",
+      "qty": 5.0,
+      "hpp": 130000.0,
+      "price": 133000.0,
+      "customer": "Pak Utek",
+      "status": "BON",
+      "nominal": 665000.0
+    },
+    {
+      "date": "2025-11-12 00:00:00",
+      "item": "pae 1 putih tulang",
+      "qty": 130.0,
+      "hpp": 12000.0,
+      "price": 12000.0,
+      "customer": "Ulit Pejeng",
+      "status": "BON",
+      "nominal": 1560000.0
+    },
+    {
+      "date": "2025-11-14 00:00:00",
+      "item": "Green Sukabumi 10x20 ekspor",
+      "qty": 4.0,
+      "hpp": 170000.0,
+      "price": 190000.0,
+      "customer": "Pak Ngurah",
+      "status": "BON",
+      "nominal": 760000.0
+    },
+    {
+      "date": "2025-11-14 00:00:00",
+      "item": "putih tulang 30x30x5",
+      "qty": 5.0,
+      "hpp": 200000.0,
+      "price": 235000.0,
+      "customer": "Pak Ngurah",
+      "status": "BON",
+      "nominal": 1175000.0
+    },
+    {
+      "date": "2025-11-14 00:00:00",
+      "item": "green sukabumi 20x20",
+      "qty": 100.0,
+      "hpp": 122000.0,
+      "price": 125000.0,
+      "customer": "Toko Canggu",
+      "status": "BON",
+      "nominal": 12500000.0
+    },
+    {
+      "date": "2025-11-14 00:00:00",
+      "item": "andesit 20x40x1,5 bakar",
+      "qty": 20.0,
+      "hpp": 120000.0,
+      "price": 120000.0,
+      "customer": "Toko Canggu",
+      "status": "BON",
+      "nominal": 2400000.0
+    },
+    {
+      "date": "2025-11-15 00:00:00",
+      "item": "Batu Kolam Putih ( Tumble )",
+      "qty": 7.0,
+      "hpp": 140000.0,
+      "price": 190000.0,
+      "customer": "Pak Utek",
+      "status": "BON",
+      "nominal": 1330000.0
+    },
+    {
+      "date": "2025-11-17 00:00:00",
+      "item": "Green Sukabumi 10x20 ekspor",
+      "qty": 6.0,
+      "hpp": 170000.0,
+      "price": 170000.0,
+      "customer": "Ulit Pejeng",
+      "status": "BON",
+      "nominal": 1020000.0
+    },
+    {
+      "date": "2025-11-17 00:00:00",
+      "item": "andesit 30x60x5 bakar",
+      "qty": 9.090909090909092,
+      "hpp": 355000.0,
+      "price": 374000.0,
+      "customer": "Ulit Pejeng",
+      "status": "BON",
+      "nominal": 3400000.0000000005
+    },
+    {
+      "date": "2025-11-18 00:00:00",
+      "item": "andesit 30x60x1,5 bakar",
+      "qty": 30.0,
+      "hpp": 135000.0,
+      "price": 145000.0,
+      "customer": "Wayan Erik",
+      "status": "BON",
+      "nominal": 4350000.0
+    },
+    {
+      "date": "2025-11-21 00:00:00",
+      "item": "Paras tulungagung 20x40x5",
+      "qty": 4.166666666666667,
+      "hpp": 180000.0,
+      "price": 216000.0,
+      "customer": "Ulit Pejeng",
+      "status": "BON",
+      "nominal": 900000.0000000001
+    },
+    {
+      "date": "2025-11-22 00:00:00",
+      "item": "Pacito Roso 20x40x2",
+      "qty": 16.0,
+      "hpp": 112000.0,
+      "price": 115000.0,
+      "customer": "Toko Canggu",
+      "status": "BON",
+      "nominal": 1840000.0
+    },
+    {
+      "date": "2025-11-22 00:00:00",
+      "item": "andesit 30x60x1,5 bakar",
+      "qty": 75.0,
+      "hpp": 135000.0,
+      "price": 150000.0,
+      "customer": "Winakara",
+      "status": "BON",
+      "nominal": 11250000.0
+    },
+    {
+      "date": "2025-11-22 00:00:00",
+      "item": "Green Sukabumi 10x10 ekspor",
+      "qty": 45.0,
+      "hpp": 165000.0,
+      "price": 190000.0,
+      "customer": "Winakara",
+      "status": "BON",
+      "nominal": 8550000.0
+    },
+    {
+      "date": "2025-11-22 00:00:00",
+      "item": "andesit 20x20x1,5 bakar",
+      "qty": 50.0,
+      "hpp": 111000.0,
+      "price": 115000.0,
+      "customer": "Gung Kupit",
+      "status": "BON",
+      "nominal": 5750000.0
+    },
+    {
+      "date": "2025-11-22 00:00:00",
+      "item": "andesit 30x30x5 bakar",
+      "qty": 7.0,
+      "hpp": 330000.0,
+      "price": 390000.0,
+      "customer": "Gung Kupit",
+      "status": "BON",
+      "nominal": 2730000.0
+    },
+    {
+      "date": "2025-11-22 00:00:00",
+      "item": "andesit 40x40x1,5 bakar",
+      "qty": 2.0,
+      "hpp": 136000.0,
+      "price": 145000.0,
+      "customer": "Gung Kupit",
+      "status": "BON",
+      "nominal": 290000.0
+    },
+    {
+      "date": "2025-11-22 00:00:00",
+      "item": "andesit 20x40x1,5 poles",
+      "qty": 6.0,
+      "hpp": 189000.0,
+      "price": 230000.0,
+      "customer": "Gung Kupit",
+      "status": "BON",
+      "nominal": 1380000.0
+    },
+    {
+      "date": "2025-11-22 00:00:00",
+      "item": "putih tulang 20x40x2",
+      "qty": 4.0,
+      "hpp": 85000.0,
+      "price": 95000.0,
+      "customer": "Gung Kupit",
+      "status": "BON",
+      "nominal": 380000.0
+    },
+    {
+      "date": "2025-11-24 00:00:00",
+      "item": "candi 30x30x2",
+      "qty": 20.0,
+      "hpp": 95000.0,
+      "price": 115000.0,
+      "customer": "Sanggra Loka Farm",
+      "status": "BON",
+      "nominal": 2300000.0
+    },
+    {
+      "date": "2025-11-24 00:00:00",
+      "item": "andesit 40x40x3 bakar",
+      "qty": 10.0,
+      "hpp": 262000.0,
+      "price": 320000.0,
+      "customer": "Sanggra Loka Farm",
+      "status": "BON",
+      "nominal": 3200000.0
+    },
+    {
+      "date": "2025-11-24 00:00:00",
+      "item": "andesit 20x40x1,5 poles",
+      "qty": 17.0,
+      "hpp": 189000.0,
+      "price": 210000.0,
+      "customer": "Ulit Pejeng",
+      "status": "BON",
+      "nominal": 3570000.0
+    },
+    {
+      "date": "2025-11-25 00:00:00",
+      "item": "Green Sukabumi 10x20 ekspor",
+      "qty": 35.0,
+      "hpp": 170000.0,
+      "price": 190000.0,
+      "customer": "Pak Ngurah",
+      "status": "BON",
+      "nominal": 6650000.0
+    },
+    {
+      "date": "2025-11-25 00:00:00",
+      "item": "Batu Kolam Putih ( Tumble )",
+      "qty": 60.0,
+      "hpp": 140000.0,
+      "price": 160000.0,
+      "customer": "Toko Canggu",
+      "status": "BON",
+      "nominal": 9600000.0
+    },
+    {
+      "date": "2025-11-27 00:00:00",
+      "item": "Green Sukabumi 10x20 ekspor",
+      "qty": 50.0,
+      "hpp": 170000.0,
+      "price": 190000.0,
+      "customer": "Pak Ngurah",
+      "status": "BON",
+      "nominal": 9500000.0
+    },
+    {
+      "date": "2025-11-27 00:00:00",
+      "item": "Green Sukabumi 10x20 ekspor",
+      "qty": 2.0,
+      "hpp": 170000.0,
+      "price": 190000.0,
+      "customer": "Pak Ngurah",
+      "status": "BON",
+      "nominal": 380000.0
+    },
+    {
+      "date": "2025-11-27 00:00:00",
+      "item": "Putih tulang 40x40x3",
+      "qty": 8.75,
+      "hpp": 147000.0,
+      "price": 200000.0,
+      "customer": "Winakara",
+      "status": "BON",
+      "nominal": 1750000.0
+    },
+    {
+      "date": "2025-11-27 00:00:00",
+      "item": "andesit 30x60x1,5 bakar",
+      "qty": 16.0,
+      "hpp": 135000.0,
+      "price": 150000.0,
+      "customer": "Winakara",
+      "status": "BON",
+      "nominal": 2400000.0
+    },
+    {
+      "date": "2025-11-28 00:00:00",
+      "item": "Batu Kolam Putih ( Tumble )",
+      "qty": 40.0,
+      "hpp": 140000.0,
+      "price": 160000.0,
+      "customer": "Toko Canggu",
+      "status": "BON",
+      "nominal": 6400000.0
+    },
+    {
+      "date": "2025-11-28 00:00:00",
+      "item": "bali green 20x40x2",
+      "qty": 38.0,
+      "hpp": 82000.0,
+      "price": 85000.0,
+      "customer": "Toko Canggu",
+      "status": "BON",
+      "nominal": 3230000.0
+    },
+    {
+      "date": "2025-11-30 00:00:00",
+      "item": "Setapak jember besar",
+      "qty": 100.0,
+      "hpp": 40000.0,
+      "price": 75000.0,
+      "customer": "Sanggra Loka Farm",
+      "status": "BON",
+      "nominal": 7500000.0
+    }
+  ]
+}
