@@ -150,10 +150,11 @@ async function main() {
         }
     }
 
-    // 6. Seed Sample Transactions
-    console.log(`💰 Seeding ${data.transactions.length} sample transactions...`)
+    // 6. Seed Sample Transactions (if exists)
+    const transactions = data.transactions || []
+    console.log(`💰 Seeding ${transactions.length} sample transactions...`)
     let successCount = 0
-    for (const tx of data.transactions) {
+    for (const tx of transactions) {
         try {
             // Find product and customer IDs
             const productId = productMap.get(tx.item.toLowerCase())

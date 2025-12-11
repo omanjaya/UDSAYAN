@@ -1,5 +1,5 @@
 # UD Project - Docker Configuration
-# Run: docker compose up -d
+# Run: docker compose up -d --build
 # Stop: docker compose down
 # Logs: docker compose logs -f
 
@@ -9,23 +9,22 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    ports:
-      - "3020:3000"
     environment:
-      - DATABASE_URL=file:./prisma/dev.db
+      - DATABASE_URL=file:/app/data/dev.db
       - NODE_ENV=production
       - NEXT_TELEMETRY_DISABLED=1
     volumes:
-      - ud_sqlite_data:/app/prisma
+      - ud_sqlite_data:/app/data
     restart: unless-stopped
     networks:
-      - ud-network
+      - attendancedev-network
+    expose:
+      - "3000"
 
 volumes:
   ud_sqlite_data:
     name: ud_sqlite_data
 
 networks:
-  ud-network:
-    name: ud-network
-    driver: bridge
+  attendancedev-network:
+    external: true

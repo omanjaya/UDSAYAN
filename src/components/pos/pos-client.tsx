@@ -167,6 +167,13 @@ export default function POSClient({
         ))
     }
 
+    const updatePrice = (productId: string, newPrice: number) => {
+        if (newPrice < 0) return
+        setCart(prev => prev.map(item =>
+            item.productId === productId ? { ...item, price: newPrice } : item
+        ))
+    }
+
     const removeFromCart = (productId: string) => {
         setCart(prev => prev.filter(item => item.productId !== productId))
     }
@@ -187,6 +194,13 @@ export default function POSClient({
         return cart.reduce((sum, item) => sum + item.qty, 0)
     }, [cart])
 
+    // Helper: parse number with comma or dot as decimal separator
+    const parseNumber = (str: string): number => {
+        // Replace comma with dot for decimal parsing
+        const normalized = str.replace(',', '.')
+        return parseFloat(normalized) || 0
+    }
+
     // Process command mode input
     const processCommand = useCallback(() => {
         const lines = commandText.split('\n').filter(l => l.trim())
@@ -195,13 +209,14 @@ export default function POSClient({
 
         for (const line of lines) {
             // Parse: "product name qty" or "product name" (qty=1)
-            const match = line.trim().match(/^(.+?)\s+(\d+(?:\.\d+)?)\s*$/)
+            // Support both dot and comma as decimal: 2.5 or 2,5
+            const match = line.trim().match(/^(.+?)\s+(\d+(?:[.,]\d+)?)\s*$/)
             let productName: string
             let qty: number
 
             if (match) {
                 productName = match[1]
-                qty = parseFloat(match[2])
+                qty = parseNumber(match[2])
             } else {
                 productName = line.trim()
                 qty = 1
@@ -519,29 +534,48 @@ Lalu tekan Ctrl+Enter atau klik Proses`}
                         </div>
                     ) : (
                         cart.map((item) => (
-                            <div key={item.productId} className="flex gap-3 p-3 rounded-lg bg-muted/50 hover:bg-muted transition-colors">
-                                <div className="flex-1 min-w-0">
-                                    <p className="font-medium text-sm truncate">{item.name}</p>
-                                    <p className="text-xs text-muted-foreground">
-                                        {formatRupiah(item.price)} × {item.qty}
-                                    </p>
+                            <div key={item.productId} className="p-3 rounded-lg bg-muted/50 hover:bg-muted transition-colors space-y-2">
+                                <div className="flex justify-between items-start">
+                                    <p className="font-medium text-sm flex-1 truncate">{item.name}</p>
+                                    <Button variant="ghost" size="icon" className="h-6 w-6 text-destructive hover:text-destructive -mr-1" onClick={() => removeFromCart(item.productId)}>
+                                        <Trash2 className="h-3.5 w-3.5" />
+                                    </Button>
                                 </div>
-                                <div className="flex flex-col items-end gap-2">
-                                    <p className="font-bold text-sm">{formatRupiah(item.price * item.qty)}</p>
-                                    <div className="flex items-center gap-1">
-                                        <Button variant="outline" size="icon" className="h-7 w-7" onClick={() => updateQty(item.productId, item.qty - 1)}>-</Button>
+                                <div className="flex items-center gap-2">
+                                    <div className="flex-1">
+                                        <Label className="text-[10px] text-muted-foreground">Harga</Label>
                                         <Input
-                                            type="number"
-                                            className="h-7 w-12 text-center text-sm p-0"
-                                            value={item.qty}
-                                            onChange={(e) => updateQty(item.productId, parseInt(e.target.value) || 0)}
-                                            min={0}
+                                            type="text"
+                                            inputMode="decimal"
+                                            className="h-8 text-sm"
+                                            value={item.price}
+                                            onChange={(e) => {
+                                                const val = e.target.value.replace(',', '.')
+                                                updatePrice(item.productId, parseFloat(val) || 0)
+                                            }}
                                         />
-                                        <Button variant="outline" size="icon" className="h-7 w-7" onClick={() => updateQty(item.productId, item.qty + 1)}>+</Button>
-                                        <Button variant="ghost" size="icon" className="h-7 w-7 text-destructive hover:text-destructive" onClick={() => removeFromCart(item.productId)}>
-                                            <Trash2 className="h-3.5 w-3.5" />
-                                        </Button>
                                     </div>
+                                    <div className="w-20">
+                                        <Label className="text-[10px] text-muted-foreground">Qty</Label>
+                                        <div className="flex items-center">
+                                            <Button variant="outline" size="icon" className="h-8 w-8 rounded-r-none" onClick={() => updateQty(item.productId, item.qty - 1)}>-</Button>
+                                            <Input
+                                                type="text"
+                                                inputMode="decimal"
+                                                className="h-8 w-12 text-center text-sm rounded-none border-x-0"
+                                                value={item.qty}
+                                                onChange={(e) => {
+                                                    const val = e.target.value.replace(',', '.')
+                                                    updateQty(item.productId, parseFloat(val) || 0)
+                                                }}
+                                            />
+                                            <Button variant="outline" size="icon" className="h-8 w-8 rounded-l-none" onClick={() => updateQty(item.productId, item.qty + 1)}>+</Button>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="flex justify-between items-center pt-1 border-t border-muted">
+                                    <span className="text-xs text-muted-foreground">Subtotal</span>
+                                    <span className="font-bold text-sm">{formatRupiah(item.price * item.qty)}</span>
                                 </div>
                             </div>
                         ))

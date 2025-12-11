@@ -104,7 +104,7 @@ function NavLinks({ className }: { className?: string }) {
             links: [
                 { href: "/dashboard", label: "Dashboard", icon: LayoutDashboard },
                 { href: "/dashboard/pos", label: "Kasir (POS)", icon: ShoppingCart },
-                { href: "/dashboard/purchases", label: "Pembelian (IN)", icon: ShoppingBag },
+                { href: "/dashboard/purchases", label: "Stok Masuk", icon: ShoppingBag },
             ]
         },
         {
