@@ -1,30 +1,43 @@
-# UD Project - Docker Configuration
+# UD Project - Docker Configuration (Development with PostgreSQL)
 # Run: docker compose up -d --build
 # Stop: docker compose down
 # Logs: docker compose logs -f
 
 services:
-  ud-app:
+  db:
+    container_name: ud-postgres
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: ud_db
+    volumes:
+      - ud_postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5433:5432"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  app:
     container_name: ud-app
     build:
       context: .
       dockerfile: Dockerfile
     environment:
-      - DATABASE_URL=file:/app/data/dev.db
+      - DATABASE_URL=postgresql://postgres:postgres@db:5432/ud_db?schema=public
       - NODE_ENV=production
       - NEXT_TELEMETRY_DISABLED=1
-    volumes:
-      - ud_sqlite_data:/app/data
+    ports:
+      - "3000:3000"
+    depends_on:
+      db:
+        condition: service_healthy
     restart: unless-stopped
-    networks:
-      - attendancedev-network
-    expose:
-      - "3000"
 
 volumes:
-  ud_sqlite_data:
-    name: ud_sqlite_data
-
-networks:
-  attendancedev-network:
-    external: true
+  ud_postgres_data:
+    name: ud_postgres_data
